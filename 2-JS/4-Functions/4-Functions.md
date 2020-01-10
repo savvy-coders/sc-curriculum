@@ -1,0 +1,143 @@
+# Functions
+What if we could save a block of code just like we could save chunks of data to variables? Luckily, we can do exactly that by creating a new function!
+In the simplest sense, we use *functions* to 'wrap up' some code and give it a name so that we can just *invoke* it 'upon demand.' This means less repetitive code.
+
+> In JS, we should consider "function" to take the broader meaning of another related term: "procedure". A procedure is a collection of statements that can be invoked one or more times, may be provided some inputs, and may give back one or more outputs. - You Don't Know JS Yet!
+
+---
+## Function Declaration, Invocation, & `return`
+### Function Declaration
+JS functions start with the `function` keyword, followed by parentheses for the function's _arguments_ or _parameters_, followed by braces that define the function's _scope_ (the code that will run when the function is _called_ or _invoked_).
+
+> *Functions* are first-class citizens in JS. This means that **anything** that we can do with other *data types*, we can do with *functions.* 
+
+With _function expressions_ we save a function to a variable like so:
+```javascript
+// function expression
+const myFirstFunction = function () {
+  console.log("This is my first function.")
+}
+```
+There is another, cleaner way writing functions called a _functional declaration_:
+```javascript
+// function declaration
+function myFirstFunction() {
+  console.log("This is my first function.")
+}
+```
+The meaning of these code samples is the same: "create a function and put it into the variable `myFirstFunction`".
+
+### **Exercise 1 (Students)** 
+#### Refactor function expressions into declarations: [1-Stu-FunctionDeclaration.js](4-Activities/1-Stu-FunctionDeclaration.js)
+
+### Function Invocation
+What's the difference between the two lines below?
+```javascript
+myFirstFunction;
+myFirstFunction();
+```
+The first just accesses the data stored in the variable, which includes the whole function() phrase. But we really want to _invoke_ the function instead, which is what happens when we use the parentheses after the name of the stored function (e.g. myFirstFunction()). Now we actually _run_ the code inside of the curly braces instead of just displaying it.
+### **Exercise 2 (Everyone)**
+#### Practice with function invocation: [2-Evr-FunctionInvocation.js](4-Activities/2-Evr-FunctionInvocation.js)
+
+> **Built-in Functions**: The function console.log() is a built-in function recognized by browsers everywhere. Some functions are so commonly used that they're simply a part of the language, otherwise we'd have to replicate those functions in nearly every JavaScript project.
+
+### `return`
+The [**return statement**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/return) ends function execution and specifies a value to be returned to the function caller.
+
+```javascript
+function myFunction() {
+  return "This is myFunction's return."
+}
+```
+If we don't include an *explicit* `return`, then `function` returns `undefined`. 
+
+> **"Short Circuiting"**: Another feature of `return` is that any code that comes after a `return` will not execute. We can use this feature of return to avoid writing `else` sometimes.
+
+---
+### **Exercise 3 (Everyone)**
+#### Practice with returns and short circuiting: [3-Evr-ReturnsAndShortCircuiting.js](4-Activities/3-Evr-ReturnsAndShortCircuiting.js)
+
+---
+---
+## Parameters & Arguments
+### Parameters
+_Named parameters_ give our inputs (_arguments_) variable names while the function is running. 
+We use a named parameter for _each_ of the arguments that we expect to receive. 
+As the arguments come in, they are assigned to the next available parameter. 
+In JavaScript, function parameters default to undefined.
+Default function parameters allow named parameters to be initialized with default values if no value is passed.
+
+### Rest Parameter (`...`)
+The [**rest parameter**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters) syntax allows us to represent an indefinite number of arguments as an _array_.
+A function's _last parameter_ can be prefixed with `...` which will cause all remaining (user supplied) arguments to be placed within an array.
+_Only_ the last parameter can be a "rest parameter".
+// ? TO DO ? // Move rest parameter section to Arrays?
+
+---
+### **Exercise 4 (Everyone)** 
+#### Practice with parameters: [4-Evr-Parameters.js](4-Activities/4-Evr-Parameters.js)
+
+---
+---
+## Scope
+Recall that we've mentioned the term [**scope**](https://developer.mozilla.org/en-US/docs/Glossary/Scope) in the past as it related to the `{ }` in `for`, `while` and `if` statements. The same concepts apply to functions and now's a good time to explore scoping more deeply.
+
+Scope is the current _context_ of execution. The context in which values and expressions are "_visible_" or can be _referenced_. 
+If a variable or other expression is not "in the current scope," then it is unavailable for use (i.e. A variable defined exclusively within a function _cannot_ be accessed from outside the function or within other functions). 
+Scopes can also be layered in a hierarchy, so that child scopes have access to parent scopes, but _not vice versa_.
+
+---
+### **Exercise 5 (Students)**
+#### Practice with functions and scope: [5-Stu-FunctionsAndScope.js](4-Activities/5-Stu-FunctionsAndScope.js)
+
+---
+---
+
+## 'Pure' Functions
+Ideally, functions should only do _one thing_ and do it _well_. Avoid writing functions that reach _outside_ of their _scope_ and cause **side effects** (e.g. calling other functions, using global variables) - whenever possible.
+
+### Composing Functions 
+**Composing functions** occurs when we use the `return` value of a `function` as an *argument* for another `function`.
+
+### Modularity
+By writing functions that just focus on doing one thing and one thing really well and applying _composition,_ we make our code more **modular**.
+
+Modular code is written in such a way that _each piece_ of functionality is _separated_ into a `function` and then _composed_ in various ways to _extend_ an app's features and functionality (extensibility).
+
+---
+### **Exercise 6 (Everyone)**
+#### Practice with pure functions: [6-Evr-PureFunctions.js](4-Activities/6-Evr-PureFunctions.js)
+
+---
+---
+## Callback Functions & Arrow Syntax
+### Callback Functions
+We've seen many examples of various data types (usually primitives) passed in as arguments to functions upon invocation. 
+A **callback function** is a function passed into another function as an argument, which is then invoked inside the outer function to complete some kind of routine or action.
+_Callback functions_ are a **critical** concept, and we will encounter this pattern throughout JS.
+
+---
+### **Exercise 7 (everyone)**
+#### Practice with callbacks: [7-Evr-Callbacks.js](4-Activities/7-Evr-Callbacks.js)
+
+---
+### Arrow Syntax
+An arrow function expression is a syntactically compact alternative to a regular function expression, although without access to some keywords. Arrow function expressions are ill suited as methods, and they cannot be used as constructors.
+
+Arrow functions can have either a "concise body" or the usual "block body".
+In a concise body, only an expression is specified, which becomes the implicit return value. In a block body, you must use an explicit return statement.
+
+```javascript
+// concise body
+const greet = n => "Hello ${n}";
+
+// block body
+const greet = (n) => {return "Hello ${n}"};
+```
+
+---
+### **Exercise 8 (students)**
+#### Practice with arrow syntax: [8-Stu-ArrowSyntax.js](4-Activities/8-Stu-ArrowSyntax.js)
+
+---
