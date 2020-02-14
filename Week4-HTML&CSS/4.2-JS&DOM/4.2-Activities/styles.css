@@ -1,0 +1,16 @@
+body {
+  background-color: #BC8DA0;
+}
+
+.nav-bar {
+  background-color: #A04668;
+  padding: 1em;
+  color: #D9D0DE;
+  font-size: 1.2em;
+  font-weight: 600;
+}
+
+footer {
+  padding: .5em;
+  background-color: #ADA8B6;
+}
