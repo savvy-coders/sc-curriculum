@@ -18,3 +18,21 @@
 * 3.2 Functions
 * 3.3 Arrays & Objects
 * 3.4 Review
+
+### Week 4: **HTML & CSS 1**
+* 4.1 HTML & CSS 1
+* 4.2 Document Object Model
+* 4.3 Agile
+* 4.4 Review
+
+### Week 5: **Array Methods**
+* 5.1 Hack-a-thon 1: Student Showcase
+* 5.2 Array Methods 1
+* 5.3 Array Methods 2
+* 5.4 Review
+
+### Week 6: **HTML & CSS 2**
+* 6.1 HTML & CSS 2
+* 6.2 JavaScript Classes
+* 6.3 Capstone Work
+* 6.4 Review
