@@ -1,14 +1,14 @@
-/* add a link to this file in index.html */
-/* use the following types of selectors:
+/* 1. add a link to this file in index.html */
+/* 2. use the following types of selectors:
     - class & id selectors
     - chain a class selector onto a element selector
     - group two or more selectors
     - select all the child list items from one of your lists
     - select an element that is a sibling of another element */
-/* Box Model: 
+/* 3. Box Model: 
     - use the universal selector to give all elements a border
     - add padding and margin on some elements
     - add padding and margin only on certain sides of some elements */
-/* use a pseudo-class to have at least one element change color when someone hovers over it */
+/* 4. use a pseudo-class to have at least one element change color when someone hovers over it */
 /* CSS Properties (MDN): https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index */
 
