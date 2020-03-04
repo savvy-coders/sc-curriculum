@@ -36,3 +36,41 @@
 * 6.2 JavaScript Classes
 * 6.3 Capstone Work
 * 6.4 Review
+
+### Week 7: **SPA 1**
+* 7.1 SPA Intro
+* 7.2 SPA Components
+* 7.3 SPA State
+* 7.4 Hack-a-thon 2: 
+
+### Week 8: **SPA 2**
+* 8.1 SPA Capstone Work
+* 8.2 Routing & Navigo
+* 8.3 APIs & Axios 1
+* 8.4 Review
+
+### Week 9: **SPA 2**
+* 9.1 APIs & Axios 2
+* 9.2 Firebase 1
+* 9.3 Hack-a-thon 3
+* 9.4 Interview Prep
+
+### Week 10: **SPA 2**
+* 10.1 Firebase 2
+* 10.2 Mock Interviews
+* 10.3 Hack-a-thon 4
+* 10.4 Review
+
+### Week 11: **SPA 2**
+* 11.1 Capstone Work
+* 11.2 Capstone Work
+* 11.3 Capstone Work
+* 11.4 Capstone Working
+
+### Week 12: **SPA 2**
+* 12.1 Demo Day Practice
+* 12.2 Demo Day Practice
+* 12.3 Demo Day
+
+### Week 13: 
+* 13.1 Job Search Workshop & Graduation
