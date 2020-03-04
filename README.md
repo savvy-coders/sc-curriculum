@@ -49,28 +49,28 @@
 * 8.3 APIs & Axios 1
 * 8.4 Review
 
-### Week 9: **SPA 2**
+### Week 9: **Wrap-up 1**
 * 9.1 APIs & Axios 2
 * 9.2 Firebase 1
 * 9.3 Hack-a-thon 3
 * 9.4 Interview Prep
 
-### Week 10: **SPA 2**
+### Week 10: **Wrap-up 2**
 * 10.1 Firebase 2
 * 10.2 Mock Interviews
 * 10.3 Hack-a-thon 4
 * 10.4 Review
 
-### Week 11: **SPA 2**
+### Week 11: **Capstone Work**
 * 11.1 Capstone Work
 * 11.2 Capstone Work
 * 11.3 Capstone Work
 * 11.4 Capstone Working
 
-### Week 12: **SPA 2**
+### Week 12: **Demo Day**
 * 12.1 Demo Day Practice
 * 12.2 Demo Day Practice
 * 12.3 Demo Day
 
-### Week 13: 
+### Week 13: **Graduation**
 * 13.1 Job Search Workshop & Graduation
