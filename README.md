@@ -45,20 +45,22 @@
 
 ### Week 8: **SPA 2**
 * 8.1 SPA Capstone Work
-* 8.2 Routing & Navigo
+* 8.2 Routing & Navigo 
+    * video: https://www.dropbox.com/s/vdjs3fkfxv9p6uq/GMT20200317-233023_Elaine-Que_1920x1080.mp4?dl=0
 * 8.3 APIs & Axios 1
+    * video: https://www.dropbox.com/s/4j3br5334bxt7wz/GMT20200318-233145_Elaine-Que_1920x1080.mp4?dl=0
 * 8.4 Review
 
-### Week 9: **Wrap-up 1**
+### Week 9: **Firebase**
 * 9.1 APIs & Axios 2
 * 9.2 Firebase 1
-* 9.3 Hack-a-thon 3
+* 9.3 Firebase 2
 * 9.4 Interview Prep
 
-### Week 10: **Wrap-up 2**
-* 10.1 Firebase 2
+### Week 10: **Capstone Work**
+* 10.1 Capstone Work
 * 10.2 Mock Interviews
-* 10.3 Hack-a-thon 4
+* 10.3 Capstone Work
 * 10.4 Review
 
 ### Week 11: **Capstone Work**
