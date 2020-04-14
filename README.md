@@ -12,7 +12,7 @@
 ### Week 2: **Intro to JavaScript**
 * 2.1 Essential Development Tools
    * Video (Night 1): [https://zoom.us/rec/share/1OxSNpLc-jJIcKPxuEDTAokZDo_dX6a8hHJK_qBfzEunKtNtsDRQThmUzDypWI6p](https://zoom.us/rec/share/1OxSNpLc-jJIcKPxuEDTAokZDo_dX6a8hHJK_qBfzEunKtNtsDRQThmUzDypWI6p)
-   * Video (Night 2): []()
+   * Video (Night 2): [https://zoom.us/rec/share/2u82C5PP-FlObYmX60iEC44xM4LAaaa8hHJN_fQNz02uWjqi9uqJqrdGqBPsw2cw](https://zoom.us/rec/share/2u82C5PP-FlObYmX60iEC44xM4LAaaa8hHJN_fQNz02uWjqi9uqJqrdGqBPsw2cw)
 * 2.2 Intro to JavaScript
 * 2.3 Operators & Flow Control
 * 2.4 UX/UI
