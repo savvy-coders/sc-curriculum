@@ -3,12 +3,16 @@
 
 ### Week 1: **Project Planning and Career Materials**
 * 1.1 Business Concepts
+   * Video: [https://zoom.us/rec/share/6tRbDKzV629IZImS7B7yBvMiNLzpeaa80ycZ-vsKmExj9QiqtYwVtPNWKF722ePu](https://zoom.us/rec/share/6tRbDKzV629IZImS7B7yBvMiNLzpeaa80ycZ-vsKmExj9QiqtYwVtPNWKF722ePu)
 * 1.2 Career Materials - Resume & LinkedIn
 * 1.3 Project Planning
+   * Video: [https://zoom.us/rec/share/y-F8PbTs5m1JX42R5W2PY5QOMY7Beaa80CQYq_sMyEZOIISV2NefN0qtmPEFCn_c](https://zoom.us/rec/share/y-F8PbTs5m1JX42R5W2PY5QOMY7Beaa80CQYq_sMyEZOIISV2NefN0qtmPEFCn_c)
 * 1.4 Agile
 
 ### Week 2: **Intro to JavaScript**
 * 2.1 Essential Development Tools
+   * Video (Night 1): [https://zoom.us/rec/share/1OxSNpLc-jJIcKPxuEDTAokZDo_dX6a8hHJK_qBfzEunKtNtsDRQThmUzDypWI6p](https://zoom.us/rec/share/1OxSNpLc-jJIcKPxuEDTAokZDo_dX6a8hHJK_qBfzEunKtNtsDRQThmUzDypWI6p)
+   * Video (Night 2): []()
 * 2.2 Intro to JavaScript
 * 2.3 Operators & Flow Control
 * 2.4 UX/UI
@@ -46,9 +50,7 @@
 ### Week 8: **SPA 2**
 * 8.1 SPA Capstone Work
 * 8.2 Routing & Navigo 
-    * video: https://www.dropbox.com/s/vdjs3fkfxv9p6uq/GMT20200317-233023_Elaine-Que_1920x1080.mp4?dl=0
 * 8.3 APIs & Axios 1
-    * video: https://www.dropbox.com/s/4j3br5334bxt7wz/GMT20200318-233145_Elaine-Que_1920x1080.mp4?dl=0
 * 8.4 Review
 
 ### Week 9: **Firebase**
