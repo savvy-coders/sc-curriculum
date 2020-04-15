@@ -19,7 +19,8 @@ _Skills_
 6. _Print the variables and their types_.
 7. _Print a template literal_ that uses both variables to construct a short sentence about your Pizza Place.
 8. _Construct an `if` statement_ that prints `"Quality, not quantity."` if you offer less than 10 toppings, or `"A whole lot of pizza."` if you offer 10 or more toppings.
-9. _Add, commit, and push_ your JS file to your GitHub repo when finished.
+9. _Add, commit, and push_ your JS file to your GitHub repo.
+10. Send your TA a link to your GitHub Homework repo when finished.
 
 ## Bonus Challenge
-10. Use a _loop_ to print all of the _even_ numbers from 1 to `numberOfToppings` (or 10)
+11. Use a _loop_ to print all of the _even_ numbers from 1 to `numberOfToppings` (or 10)
