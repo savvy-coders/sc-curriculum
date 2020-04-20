@@ -14,8 +14,13 @@
    * Video (Night 1): [https://zoom.us/rec/share/1OxSNpLc-jJIcKPxuEDTAokZDo_dX6a8hHJK_qBfzEunKtNtsDRQThmUzDypWI6p](https://zoom.us/rec/share/1OxSNpLc-jJIcKPxuEDTAokZDo_dX6a8hHJK_qBfzEunKtNtsDRQThmUzDypWI6p)
    * Video (Night 2): [https://zoom.us/rec/share/2u82C5PP-FlObYmX60iEC44xM4LAaaa8hHJN_fQNz02uWjqi9uqJqrdGqBPsw2cw](https://zoom.us/rec/share/2u82C5PP-FlObYmX60iEC44xM4LAaaa8hHJN_fQNz02uWjqi9uqJqrdGqBPsw2cw)
 * 2.2 Intro to JavaScript
+   * Video: [https://zoom.us/rec/share/4OZxBb6h7EVIbZ3d2VDnAbMLMIO_T6a80HNI_aYMmRlVVNIEtntsCxKqLziFzCWu](https://zoom.us/rec/share/4OZxBb6h7EVIbZ3d2VDnAbMLMIO_T6a80HNI_aYMmRlVVNIEtntsCxKqLziFzCWu)
+   * Access Password: M7?.uw60
 * 2.3 Operators & Flow Control
+   * Video: [https://zoom.us/rec/share/vPZvaOn2_1pLboXgtWrDffAKOoX8eaa81ikd-KZezRt0h2tATRfDd_-L1jOOY5hB](https://zoom.us/rec/share/4OZxBb6h7EVIbZ3d2VDnAbMLMIO_T6a80HNI_aYMmRlVVNIEtntsCxKqLziFzCWu)
+   * Access Password: e5#9+iXS
 * 2.4 UX/UI
+   * Video: [https://zoom.us/rec/share/-81IP7Op1XxOQ43dsm_vRKEQPbXDaaa8gCRI8_oKmU360gwYUp98pTlH_9zowLVF](https://zoom.us/rec/share/-81IP7Op1XxOQ43dsm_vRKEQPbXDaaa8gCRI8_oKmU360gwYUp98pTlH_9zowLVF)
 
 ### Week 3: **JavaScript**
 * 3.1 JavaScript & the Browser
