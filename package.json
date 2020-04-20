@@ -1,0 +1,24 @@
+{
+  "name": "savvy-curriculum",
+  "version": "1.0.0",
+  "description": "curriculum repo for Savvy Coders",
+  "main": "index.js",
+  "scripts": {
+    "serve": "browser-sync start --server --files '*.html, *.css, *.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.1",
+    "eslint-plugin-prettier": "^3.1.2",
+    "prettier": "1.19.1",
+    "stylelint": "^11.1.1",
+    "stylelint-config-prettier": "^6.0.0",
+    "stylelint-config-recommended": "^3.0.0",
+    "stylelint-prettier": "^1.1.2",
+    "stylelint-vscode": "^7.0.0-6"
+  }
+}

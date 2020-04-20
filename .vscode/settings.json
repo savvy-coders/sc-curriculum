@@ -1,0 +1,29 @@
+// 20191115225520
+// https://gist.githubusercontent.com/manavm1990/010888b2c0c7b7387312a2f5e3d05295/raw/e3b062bb99499b9993cb3258ce7ea86a82c6b32e/settings.json
+
+{
+  "better-comments.highlightPlainText": true,
+  "css.validate": false,
+  "editor.accessibilitySupport": "off",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.fontFamily": "'Inconsolata', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.minimap.enabled": false,
+  "editor.scrollBeyondLastColumn": 2,
+  "editor.smoothScrolling": true,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 100,
+  "files.autoSave": "onFocusChange",
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "stylelint.enable": true,
+  "terminal.integrated.fontFamily": "'Inconsolata', monospace",
+  "workbench.colorTheme": "Material Theme",
+  "workbench.enableExperiments": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.view.alwaysShowHeaderActions": true
+}
