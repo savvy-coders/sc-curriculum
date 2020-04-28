@@ -24,12 +24,19 @@
 
 ### Week 3: **JavaScript**
 * 3.1 JavaScript & the Browser
+   * Video: [https://zoom.us/rec/share/vutqI7Hh9H1OZM-QxVvRGa07N6bCX6a813NN-_INyEqzW3Y3XskNT2exJS9h5_0](https://zoom.us/rec/share/vutqI7Hh9H1OZM-QxVvRGa07N6bCX6a813NN-_INyEqzW3Y3XskNT2exJS9h5_0)
+   * Access Password:7w#Vf.#^
 * 3.2 Functions
 * 3.3 Arrays & Objects
+   * Video: [https://us02web.zoom.us/rec/share/3ZNbHb3MrDpJS43m6kjDXekKQrX6aaa80HAcr_sMnhnsQmJotgql_r7QE-FW_lHB](https://us02web.zoom.us/rec/share/3ZNbHb3MrDpJS43m6kjDXekKQrX6aaa80HAcr_sMnhnsQmJotgql_r7QE-FW_lHB)
+   * Access Password:3P+.&R8%
 * 3.4 Review
+   * Video: [https://zoom.us/rec/share/x91Lc5DB_G1OAYXXxEzCRqwiAtjIT6a81CdI_vQPyB4ta_3a4ecxRGvlc4iu-wxP](https://zoom.us/rec/share/x91Lc5DB_G1OAYXXxEzCRqwiAtjIT6a81CdI_vQPyB4ta_3a4ecxRGvlc4iu-wxP)
 
 ### Week 4: **HTML & CSS 1**
 * 4.1 HTML & CSS 1
+   * Video: [https://us02web.zoom.us/rec/share/xuVScZqh225OU6eK8UKcBJ96MYXMaaa8hCIWrvVZz02dIa4xQ32YWEFyBNgxqlf4](https://us02web.zoom.us/rec/share/xuVScZqh225OU6eK8UKcBJ96MYXMaaa8hCIWrvVZz02dIa4xQ32YWEFyBNgxqlf4)
+   * Access password:9q?#*@81
 * 4.2 Document Object Model
 * 4.3 Agile
 * 4.4 Review
@@ -50,11 +57,11 @@
 * 7.1 SPA Intro
 * 7.2 SPA Components
 * 7.3 SPA State
-* 7.4 Hack-a-thon 2: 
+* 7.4 Hack-a-thon 2:
 
 ### Week 8: **SPA 2**
 * 8.1 SPA Capstone Work
-* 8.2 Routing & Navigo 
+* 8.2 Routing & Navigo
 * 8.3 APIs & Axios 1
 * 8.4 Review
 
