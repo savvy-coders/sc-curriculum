@@ -6,7 +6,7 @@ Go to [flexboxfroggy.com](https://flexboxfroggy.com/) and complete at least half
 Send a screenshot of your progress to your TA when you are finished.
 
 Example screenshot:
-![example flexbox froggy screenshot](flexboxFroggyScreenshot.png)
+![example flexbox froggy screenshot](https://github.com/savvy-coders/sc-curriculum/blob/master/Week6-HTML&CSS2/Week6-Homework/flexboxFroggyScreenshot.png?raw=true)
 
 ## Bonus Challenge
 In a .js file, create a few classes. Create one "general category" class, then two more specific classes which extend from the first class.
