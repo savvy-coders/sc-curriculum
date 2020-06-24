@@ -3,40 +3,30 @@
 
 ### Week 1: **Project Planning and Career Materials**
 * 1.1 Business Concepts
-   * Video: [https://zoom.us/rec/share/6tRbDKzV629IZImS7B7yBvMiNLzpeaa80ycZ-vsKmExj9QiqtYwVtPNWKF722ePu](https://zoom.us/rec/share/6tRbDKzV629IZImS7B7yBvMiNLzpeaa80ycZ-vsKmExj9QiqtYwVtPNWKF722ePu)
 * 1.2 Career Materials - Resume & LinkedIn
 * 1.3 Project Planning
-   * Video: [https://zoom.us/rec/share/y-F8PbTs5m1JX42R5W2PY5QOMY7Beaa80CQYq_sMyEZOIISV2NefN0qtmPEFCn_c](https://zoom.us/rec/share/y-F8PbTs5m1JX42R5W2PY5QOMY7Beaa80CQYq_sMyEZOIISV2NefN0qtmPEFCn_c)
 * 1.4 Agile
 
 ### Week 2: **Intro to JavaScript**
 * 2.1 Essential Development Tools
-   * Video (Night 1): [https://zoom.us/rec/share/1OxSNpLc-jJIcKPxuEDTAokZDo_dX6a8hHJK_qBfzEunKtNtsDRQThmUzDypWI6p](https://zoom.us/rec/share/1OxSNpLc-jJIcKPxuEDTAokZDo_dX6a8hHJK_qBfzEunKtNtsDRQThmUzDypWI6p)
-   * Video (Night 2): [https://zoom.us/rec/share/2u82C5PP-FlObYmX60iEC44xM4LAaaa8hHJN_fQNz02uWjqi9uqJqrdGqBPsw2cw](https://zoom.us/rec/share/2u82C5PP-FlObYmX60iEC44xM4LAaaa8hHJN_fQNz02uWjqi9uqJqrdGqBPsw2cw)
+   * Video (Night 1): [https://us02web.zoom.us/rec/share/59NLA-ip1TNLRp311x3jCv4PAZvFeaa8gScf8_MJmkiTrw1XEzmdoLh-CaL1VYV8](https://us02web.zoom.us/rec/share/59NLA-ip1TNLRp311x3jCv4PAZvFeaa8gScf8_MJmkiTrw1XEzmdoLh-CaL1VYV8)
+   * Access Password: 9g.&&?&O
+   * Video (Night 2): [https://us02web.zoom.us/rec/share/u-5YCLbwzDxOE6eK7hCHAoE_B6jPX6a82yMZr_pcxUnH27sr7vbHL3VQj4owNEjS](https://us02web.zoom.us/rec/share/u-5YCLbwzDxOE6eK7hCHAoE_B6jPX6a82yMZr_pcxUnH27sr7vbHL3VQj4owNEjS)
+   * Access Password: 7Z&Cu9s7
 * 2.2 Intro to JavaScript
-   * Video: [https://zoom.us/rec/share/4OZxBb6h7EVIbZ3d2VDnAbMLMIO_T6a80HNI_aYMmRlVVNIEtntsCxKqLziFzCWu](https://zoom.us/rec/share/4OZxBb6h7EVIbZ3d2VDnAbMLMIO_T6a80HNI_aYMmRlVVNIEtntsCxKqLziFzCWu)
-   * Access Password: M7?.uw60
+   * Video: [https://us02web.zoom.us/rec/share/2-wyIYPi8U9IG5GXs2v2Cp4aTpTraaa8gSUYqPENzE_bY9jfYhP0Zs6Z5xMbSNMb](https://us02web.zoom.us/rec/share/2-wyIYPi8U9IG5GXs2v2Cp4aTpTraaa8gSUYqPENzE_bY9jfYhP0Zs6Z5xMbSNMb)
+   * Access Password: 1l^.g5r
 * 2.3 Operators & Flow Control
-   * Video: [https://zoom.us/rec/share/vPZvaOn2_1pLboXgtWrDffAKOoX8eaa81ikd-KZezRt0h2tATRfDd_-L1jOOY5hB](https://zoom.us/rec/share/4OZxBb6h7EVIbZ3d2VDnAbMLMIO_T6a80HNI_aYMmRlVVNIEtntsCxKqLziFzCWu)
-   * Access Password: e5#9+iXS
 * 2.4 UX/UI
-   * Video: [https://zoom.us/rec/share/-81IP7Op1XxOQ43dsm_vRKEQPbXDaaa8gCRI8_oKmU360gwYUp98pTlH_9zowLVF](https://zoom.us/rec/share/-81IP7Op1XxOQ43dsm_vRKEQPbXDaaa8gCRI8_oKmU360gwYUp98pTlH_9zowLVF)
 
 ### Week 3: **JavaScript**
 * 3.1 JavaScript & the Browser
-   * Video: [https://zoom.us/rec/share/vutqI7Hh9H1OZM-QxVvRGa07N6bCX6a813NN-_INyEqzW3Y3XskNT2exJS9h5_0](https://zoom.us/rec/share/vutqI7Hh9H1OZM-QxVvRGa07N6bCX6a813NN-_INyEqzW3Y3XskNT2exJS9h5_0)
-   * Access Password:7w#Vf.#^
 * 3.2 Functions
 * 3.3 Arrays & Objects
-   * Video: [https://us02web.zoom.us/rec/share/3ZNbHb3MrDpJS43m6kjDXekKQrX6aaa80HAcr_sMnhnsQmJotgql_r7QE-FW_lHB](https://us02web.zoom.us/rec/share/3ZNbHb3MrDpJS43m6kjDXekKQrX6aaa80HAcr_sMnhnsQmJotgql_r7QE-FW_lHB)
-   * Access Password:3P+.&R8%
 * 3.4 Review
-   * Video: [https://zoom.us/rec/share/x91Lc5DB_G1OAYXXxEzCRqwiAtjIT6a81CdI_vQPyB4ta_3a4ecxRGvlc4iu-wxP](https://zoom.us/rec/share/x91Lc5DB_G1OAYXXxEzCRqwiAtjIT6a81CdI_vQPyB4ta_3a4ecxRGvlc4iu-wxP)
 
 ### Week 4: **HTML & CSS 1**
 * 4.1 HTML & CSS 1
-   * Video: [https://us02web.zoom.us/rec/share/xuVScZqh225OU6eK8UKcBJ96MYXMaaa8hCIWrvVZz02dIa4xQ32YWEFyBNgxqlf4](https://us02web.zoom.us/rec/share/xuVScZqh225OU6eK8UKcBJ96MYXMaaa8hCIWrvVZz02dIa4xQ32YWEFyBNgxqlf4)
-   * Access password:9q?#*@81
 * 4.2 Document Object Model
 * 4.3 Agile
 * 4.4 Review
