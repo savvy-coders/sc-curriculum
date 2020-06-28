@@ -9,24 +9,25 @@ function myNumberFunction() {
 
 // change the function above to return a value
 
-
 // Short Circuiting
 // ! the console.log will not print
 function shortCircuitFunction() {
   return "Zap! - Short Circuited!";
-  console.log("This will never print because it is after the return statement.");
+  console.log(
+    "This will never print because it is after the return statement."
+  );
 }
 
 // ? will the following function short circuit?
 let height = 50;
 function checkCircusRides() {
   if (height < 48) {
-    console.log("Take a ride on the carousel!")
+    console.log("Take a ride on the carousel!");
   }
   if (height < 60) {
-    console.log("Try the bumper cars!")
+    console.log("Try the bumper cars!");
   }
-  console.log("Enjoy the roller coaster!")
+  console.log("Enjoy the roller coaster!");
 }
 
 // change the function above to use short circuiting

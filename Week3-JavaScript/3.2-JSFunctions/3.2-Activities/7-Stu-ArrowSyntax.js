@@ -1,15 +1,15 @@
 // refactor the functions below into arrow syntax
 function myNumberFunction() {
-  return (2 ** 2 + 3) % 4 * 14;
+  return ((2 ** 2 + 3) % 4) * 14;
 }
 
 function greet(name) {
   return `Hello, ${name}`;
 }
 
-const timeOfDayGreet = function (name, timeOfDay) {
+const timeOfDayGreet = function(name, timeOfDay) {
   return `Hello, ${name}, good ${timeOfDay}`;
-}
+};
 
 function tripleAndHalf(num) {
   let triple = num * 3;

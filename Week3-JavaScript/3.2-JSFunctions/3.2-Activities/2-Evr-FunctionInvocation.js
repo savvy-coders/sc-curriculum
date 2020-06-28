@@ -9,6 +9,4 @@ function myNumberFunction() {
 
 // now, invoke the myNumberFunction function
 
-
 // print just the function of console.log (no invocation)
-
