@@ -13,9 +13,8 @@ console.log(x === y);
 console.log([1, 2, "c"] === [1, 2, "c"]);
 console.log({} === {});
 
-y = {id: 1};
+y = { id: 1 };
 x = y;
 console.log(x === y);
 y.id += 1;
 console.log(x.id === y.id);
-
