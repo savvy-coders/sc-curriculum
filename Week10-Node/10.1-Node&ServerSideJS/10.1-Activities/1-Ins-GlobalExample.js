@@ -4,4 +4,6 @@
 // is added to the global object.
 // This works the same way variables would be added to the window object in the browser
 total = 311;
+
+// notice that we DO have a console! But, unlike the browser, this console is not mapped to window.console
 console.log(global);
