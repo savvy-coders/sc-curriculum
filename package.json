@@ -4,8 +4,8 @@
   "description": "curriculum repo for Savvy Coders",
   "main": "index.js",
   "scripts": {
-    "serve": "parcel index.html",
-    "build": "parcel build index.html && cp _redirects ./dist/"
+    "parcel-build": "parcel build index.html && cp _redirects ./dist/",
+    "serve": "parcel index.html"
   },
   "keywords": [],
   "author": "",
