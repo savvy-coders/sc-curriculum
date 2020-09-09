@@ -1,11 +1,7 @@
 # Week 3 Homework: Pizza Place Functions
 
-## HTML & JS set-up
-1. Add a "Week 3 Homework" _folder_ to your homework repo
-2. Inside the folder, create `index.html` and `index.js` files
-3. Populate the `index.html` with boilerplate starter HTML
-4. Change the text in the title tag to "HW-Week3"
-5. Link your JS file to your HTML file with a `<script>` tag.
+## Set-up
+1. Add a "Week 3 Homework" _file_ to your homework repo
 
 ## Pizza Place Functions
 1. Create an array of `pizzaToppings` with at least four different toppings
