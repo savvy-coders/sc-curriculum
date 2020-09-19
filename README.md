@@ -9,13 +9,7 @@
 
 ### Week 2: **Intro to JavaScript**
 * 2.1 Essential Development Tools
-   * Video (Night 1): [https://us02web.zoom.us/rec/share/59NLA-ip1TNLRp311x3jCv4PAZvFeaa8gScf8_MJmkiTrw1XEzmdoLh-CaL1VYV8](https://us02web.zoom.us/rec/share/59NLA-ip1TNLRp311x3jCv4PAZvFeaa8gScf8_MJmkiTrw1XEzmdoLh-CaL1VYV8)
-   * Access Password: 9g.&&?&O
-   * Video (Night 2): [https://us02web.zoom.us/rec/share/u-5YCLbwzDxOE6eK7hCHAoE_B6jPX6a82yMZr_pcxUnH27sr7vbHL3VQj4owNEjS](https://us02web.zoom.us/rec/share/u-5YCLbwzDxOE6eK7hCHAoE_B6jPX6a82yMZr_pcxUnH27sr7vbHL3VQj4owNEjS)
-   * Access Password: 7Z&Cu9s7
 * 2.2 Intro to JavaScript
-   * Video: [https://us02web.zoom.us/rec/share/2-wyIYPi8U9IG5GXs2v2Cp4aTpTraaa8gSUYqPENzE_bY9jfYhP0Zs6Z5xMbSNMb](https://us02web.zoom.us/rec/share/2-wyIYPi8U9IG5GXs2v2Cp4aTpTraaa8gSUYqPENzE_bY9jfYhP0Zs6Z5xMbSNMb)
-   * Access Password: 1l^.g5r
 * 2.3 Operators & Flow Control
 * 2.4 UX/UI
 
