@@ -1,4 +1,0 @@
-/* this adds a border around the flex items */
-.flex > * {
-  border: 1px solid;
-}
