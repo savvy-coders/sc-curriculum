@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-express-api-curriculum",
+  "version": "1.0.0",
+  "description": "An introductory course for NodeJS using the Express Framework and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savvy-coders/nodejs-express-api-curriculum.git"
+  },
+  "author": "Ryan Coleman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/savvy-coders/nodejs-express-api-curriculum/issues"
+  },
+  "homepage": "https://github.com/savvy-coders/nodejs-express-api-curriculum#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.10.10"
+  }
+}
