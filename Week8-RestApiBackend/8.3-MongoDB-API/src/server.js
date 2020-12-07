@@ -1,115 +1,130 @@
-const express = require('express')
-const bodyParser = require('body-parser')
-const cors = require('cors')
-const mongoose = require('mongoose')
-mongoose.connect('mongodb://localhost/pizza')
-const db = mongoose.connection
+/*
+  Possible resources
+    https://university.mongodb.com/
+    M001: MongoDB Basics : https://university.mongodb.com/courses/M001/about
+    M220JS: MongoDB for Javascript Developers : https://university.mongodb.com/courses/M220JS/about
+*/
 
-const app = express()
-const port = 3000
+const express = require("express");
+const bodyParser = require("body-parser");
+const cors = require("cors");
+const mongoose = require("mongoose");
+mongoose.connect("mongodb://localhost/pizza-place", {
+  // Configuration options to remove deprecation warnings, just include them to remove clutter
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+  useFindAndModify: false
+});
+const db = mongoose.connection;
 
-app.use(bodyParser.json())
-app.use(cors())
+// Import the orders routes from the routes folder, this abstracts it to make it easier to maintain
+const ordersRoute = require("./routers/orders");
 
-let db_status = 'MongoDB connection not successful'
+const app = express();
+const port = 3000;
 
-db.on('error', console.error.bind(console, 'connection error:'))
-db.once('open', () => db_status = 'Successful opened connection to Mongo!')
+app.use(bodyParser.json());
+app.use(cors());
+
+let db_status = "MongoDB connection not successful";
+
+db.on("error", console.error.bind(console, "connection error:"));
+db.once("open", () => (db_status = "Successful opened connection to Mongo!"));
 
 // Documentation: https://mongoosejs.com/docs/guides.html
 
 // Define a mongoose schema aka model
 const pizzaSchema = new mongoose.Schema({
-    id: String,
-    crust: String,
-    cheese: String,
-    sauce: String,
-    toppings: [String],
-    orderId: String
+  crust: String,
+  cheese: String,
+  sauce: String,
+  toppings: [String],
+  orderId: mongoose.ObjectId
 });
 
-const customerSchema = new mongoose.Schema({
-    name: String,
-    address: String,
-    city: String,
-    state: String,
-    postalCode: String
-});
+// This adds all the mongoose methods to the pizzaInline
+const PizzaInline = mongoose.model("PizzaInline", pizzaSchema);
 
-const orderSchema = new mongoose.Schema({
-    id: String,
-    pizzas: [String],
-    customer: String
-});
+/*
+  Define routes that the server should respond to when requested
+  https://expressjs.com/en/guide/routing.html
 
-// This adds all the mongoose methods to the pizzaModel
-const Pizza = mongoose.model('Pizza', pizzaSchema);
-const Customer = mongoose.model('Customer', customerSchema);
-const Order = mongoose.model('Order', orderSchema);
+  Routes are typically plural nouns, never verbs.   Verbs are taken care of by the request type
 
-app.get('/', (req,res) => res.send(db_status))
+  The following is a basic root route to determine the Server is functioning
+ */
+app.get("/", (req, res) => res.send(db_status));
 
-app.post('/orders', (req, res) => {
-    const newOrder = new Order({});
-    const customer = new Customer(req.body.customer);
-    customer.save((error, data) => {});
-    const pizzaIds = req.body.pizzas.map(pizza => {
-        const newPizza = new Pizza({...pizza, orderId: newOrder._id});
-        newPizza.save((error, data) => {});
-        return newPizza._id;
-    });
-    newOrder.pizzas = pizzaIds;
-    newOrder.customer = customer._id;
-    newOrder.save((error, data) => {
-        return error ? res.sendStatus(500).json(error) : res.json(data);
-    })
-});
-
-// Routes are typically plural nouns, not verbs.   Verbs are taken care of by the request type
-app.post('/pizzas', (req, res) => {
-    const newPizza = new Pizza(req.body);
+// Create method/route
+// Demonstrate route handler middleware
+app.post(
+  "/pizzas",
+  // Handlers should do distinct things
+  // If this handler fails then the next one will not execute
+  (req, res, next) => {
+    console.log(`Hey cook, there is a new direct pizza order:
+      Crust: ${req.body.crust},
+      Sauce: ${req.body.sauce},
+      Cheese: ${req.body.cheese},
+      Toppings: ${req.body.toppings.join(", ")}`);
+    // It is important to call next() or the call will never finish
+    next();
+  },
+  (req, res) => {
+    const newPizza = new PizzaInline(req.body);
     // The save method comes from Mongoose
     newPizza.save((error, data) => {
-        // sendStatus sends 200 by default
-        return error ? res.sendStatus(500).json(error) : res.json(data);
+      // sendStatus sends 200 by default
+      return error ? res.sendStatus(500).json(error) : res.json(data);
     });
+  }
+);
+
+app.get("/pizzas", (req, res) => {
+  PizzaInline.find({}, (error, data) => {
+    return error ? res.sendStatus(500).json(error) : res.json(data);
+  });
 });
 
-app.get('/pizzas', (req, res) => {
-    Pizza.find({}, (error, data) => {
-        return error ? res.sendStatus(500).json(error) : res.json(data);
-    })
-})
+/*
+  I originally named the param :pizzaId but then changed it to :id
+  This allows it to be more universal for reproduction or abstraction
+*/
+app.get("/pizzas/:id", (req, res) => {
+  // Request parameters (params) are defined in the route, queryParams are provided after the url behind a ? and & in key=value pairs
+  PizzaInline.findById(req.params.id, (error, data) => {
+    return error ? res.sendStatus(500).json(error) : res.json(data);
+  });
+});
 
-app.get('/pizzas/:pizzaId', (req, res) => {
-    // Request parameters (params) are defined in the route, queryParams are provided after the url behind a ? and & in key=value pairs
-    Pizza.findById(req.params.pizzaId, (error, data) => {
-        return error ? res.sendStatus(500).json(error) : res.json(data);
-    })
-})
+app.put("/pizzas/:id", (req, res) => {
+  const data = req.body;
+  PizzaInline.findByIdAndUpdate(
+    req.params.id,
+    {
+      $set: {
+        crust: data.crust,
+        cheese: data.cheese,
+        sauce: data.sauce,
+        toppings: data.toppings
+      }
+    },
+    (error, data) => {
+      return error ? res.sendStatus(500).json(error) : res.json(data);
+    }
+  );
+});
 
-app.put('/pizzas/:pizzaId', (req, res) => {
-    const data = req.body;
-    Pizza.findByIdAndUpdate(
-        req.params.pizzaId,
-        {$set: {
-            crust: data.crust,
-            cheese: data.cheese,
-            sauce: data.sauce,
-            toppings: data.toppings
-        }},
-        (error, data) => {
-            return error ? res.sendStatus(500).json(error) : res.json(req.body);
-        })
-})
+app.delete("/pizzas/:id", (req, res) => {
+  PizzaInline.findByIdAndDelete(req.params.id, {}, (error, data) => {
+    if (error) {
+      return res.sendStatus(500).json(error);
+    }
+    return res.json(data);
+  });
+});
 
-app.delete('/pizzas/:pizzaId', (req, res) => {
-    Pizza.findByIdAndDelete(
-        req.params.pizzaId,
-        {},
-        (error, data) => {
-            return error ? res.sendStatus(500).json(error) : res.json(data);
-        })
-})
+app.use("/orders", ordersRoute);
 
-app.listen(port, () => console.log(`Example app listening of port ${port}`))
+// Initialize the server
+app.listen(port, () => console.log(`Example app listening of port ${port}`));
