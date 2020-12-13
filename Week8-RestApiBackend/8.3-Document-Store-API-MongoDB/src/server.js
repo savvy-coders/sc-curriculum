@@ -18,7 +18,7 @@ mongoose.connect("mongodb://localhost/pizza-place", {
 const db = mongoose.connection;
 
 // Import the orders routes from the routes folder, this abstracts it to make it easier to maintain
-const ordersRoute = require("./routers/orders");
+const orders = require("./controllers/orders");
 
 const app = express();
 const port = 3000;
@@ -124,7 +124,9 @@ app.delete("/pizzas/:id", (req, res) => {
   });
 });
 
-app.use("/orders", ordersRoute);
+// How you should really do it, abstract the resources into different files
+//   This improves maintainability
+app.use("/orders", orders);
 
 // Initialize the server
 app.listen(port, () => console.log(`Example app listening of port ${port}`));

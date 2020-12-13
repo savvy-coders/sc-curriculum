@@ -4,6 +4,7 @@
   "description": "An introductory course for NodeJS using the Express Framework and MongoDB",
   "main": "index.js",
   "scripts": {
+    "watch": "nodemon --watch ./src -e js ./src/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,8 @@
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "mongoose": "^5.10.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
   }
 }
