@@ -38,8 +38,7 @@ const pizzaSchema = new mongoose.Schema({
   crust: String,
   cheese: String,
   sauce: String,
-  toppings: [String],
-  orderId: mongoose.ObjectId
+  toppings: [String]
 });
 
 // This adds all the mongoose methods to the pizzaInline
