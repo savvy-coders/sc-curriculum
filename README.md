@@ -2,6 +2,7 @@
 ## the Savvy Coders Curriculum
 
 ### Week 0: **Setting-up Your Development Environment**
+* 0.1-Local Development Environment
 * For Mac/Linux Users
 * For Windows Users
 
