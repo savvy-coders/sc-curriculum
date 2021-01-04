@@ -21,7 +21,7 @@
 * 3.1 Functions
 * 3.2 Arrays & Objects
 * 3.3 HTML & CSS 1
-* 3.4 Review
+* 3.4 HTML & CSS (continued)
 
 ### Week 4: **Array Methods**
 * 4.1 Document Object Model
