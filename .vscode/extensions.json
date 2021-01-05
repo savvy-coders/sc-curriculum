@@ -1,0 +1,30 @@
+// 20191115225449
+// https://gist.githubusercontent.com/manavm1990/5ac9cb4d3ee08bf964bd67312dc9f2b6/raw/0e78d4ed1ce018762e11397c0830ff97640ba71f/extensions.json
+
+{
+  "recommendations": [
+    "2gua.rainbow-brackets",
+    "aaron-bond.better-comments",
+    "alefragnani.bookmarks",
+    "christian-kohler.npm-intellisense",
+    "codezombiech.gitignore",
+    "coenraads.bracket-pair-colorizer-2",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "kisstkondoros.vscode-gutter-preview",
+    "msjsdiag.debugger-for-chrome",
+    "ms-vsliveshare.vsliveshare",
+    "naumovs.color-highlight",
+    "oderwat.indent-rainbow",
+    "pkief.material-icon-theme",
+    "plievone.vscode-template-literal-editor",
+    "sdras.night-owl",
+    "smelukov.vscode-csstree",
+    "stkb.rewrap",
+    "streetsidesoftware.code-spell-checker",
+    "stylelint.vscode-stylelint",
+    "tyriar.sort-lines",
+    "xabikos.javascriptsnippets"
+  ]
+}

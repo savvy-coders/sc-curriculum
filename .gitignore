@@ -1,0 +1,7 @@
+.DS_Store
+.cache
+dist
+node_modules
+*.sw*
+package-lock.json
+.idea/*
