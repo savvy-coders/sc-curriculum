@@ -2,6 +2,7 @@
 ## the Savvy Coders Curriculum
 
 ### Week 0: **Setting-up Your Development Environment**
+* 0.1-Local Development Environment
 * For Mac/Linux Users
 * For Windows Users
 
@@ -21,7 +22,7 @@
 * 3.1 Functions
 * 3.2 Arrays & Objects
 * 3.3 HTML & CSS 1
-* 3.4 Review
+* 3.4 HTML & CSS Addendum & Review
 
 ### Week 4: **Array Methods**
 * 4.1 Document Object Model
