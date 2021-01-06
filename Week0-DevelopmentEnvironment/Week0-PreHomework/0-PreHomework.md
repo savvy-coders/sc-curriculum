@@ -1,4 +1,4 @@
-# SAVVY CODERS PREWORK
+# SAVVY CODERS PRE-COURSE HOMEWORK
 
 ## – What to prepare before you come to BootCamp!
 
