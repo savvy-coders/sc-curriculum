@@ -3,23 +3,28 @@
 ## Goal: _Mastery of these Skills_
 
 - The DOM Tree & Node Relationships, and working with elements in the DOM
--
+- Events & Event Handling
+- Methods for working with JS array content, and combining arrays
+- JS `.forEach()`, `.map()`, `.filter()`, and `.reduce()` methods
+- JS Step Debugging in VS Code
+
+<br>
 
 ## Goal: _Capstone work_
 
 - Continue building out your capstone HTML
-- Add an `About` and `Contact` page and style these with CSS
+- Add an `About` and `Contact` page, and style these with CSS
 
 <br>
 
-## HTML & JS set-up
+## HTML & JS homework set-up
 
 1. Add a "Week 4 Homework" _folder_ to your homework repo
 2. Inside the folder, create `index.html` and `index.js` files
 3. Populate the `index.html` with boilerplate starter HTML
 4. Link your JS file to your HTML file with a `<script>` tag.
 
-## Informational Website
+### Build an informational Website
 
 > **GOAL**: Create a website that informs a visitor about something. The website should be readable and look nice: the website's basic appearance matters more than the particular content.
 >
