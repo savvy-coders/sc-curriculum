@@ -4,51 +4,51 @@
 
 ### Week 0: **Setting-up Your Development Environment**
 
-- [0.1-Local Development Environment](Week0-DevelopmentEnvironment\0.1-Local-dev-encironment.md)
-- [For Mac/Linux Users](Week0-DevelopmentEnvironment\ForMacUsers.md)
-- [For Windows Users](Week0-DevelopmentEnvironment\ForWindowsUsers.md)
-- [Week 0 - Re-Homework](Week0-DevelopmentEnvironment\Week0-PreHomework\0-PreHomework.md)
+- [0.1-Local Development Environment](Week0-DevelopmentEnvironment/0.1-Local-dev-encironment.md)
+- [For Mac/Linux Users](Week0-DevelopmentEnvironment/ForMacUsers.md)
+- [For Windows Users](Week0-DevelopmentEnvironment/ForWindowsUsers.md)
+- [Week 0 - Re-Homework](Week0-DevelopmentEnvironment/Week0-PreHomework/0-PreHomework.md)
 
 ### Week 1: **Project Planning and Career Materials**
 
 - 1.1 Business Concepts
-- [1.2 Career Materials](Week1-ProjectPlanning&CareerMaterials\1.2-CareerMaterials\CareerMaterialsLinks.md)
-- [1.3 Project Planning](Week1-ProjectPlanning&CareerMaterials\1.3-ProjectPlanning\ProjectPlanningLinks.md)
+- [1.2 Career Materials](Week1-ProjectPlanning&CareerMaterials/1.2-CareerMaterials/CareerMaterialsLinks.md)
+- [1.3 Project Planning](Week1-ProjectPlanning&CareerMaterials/1.3-ProjectPlanning/ProjectPlanningLinks.md)
 - [1.4 Agile - (web link to The Agile Coaching Academy)](https://courses.theagilecoach.com/users/sign_in)
-- [Week 1 - Homework](Week1-ProjectPlanning&CareerMaterials\Week1-Homework\1-Homework.md)
+- [Week 1 - Homework](Week1-ProjectPlanning&CareerMaterials/Week1-Homework/1-Homework.md)
 
 ### Week 2: **Intro to JavaScript**
 
-- [2.1 Essential Development Tools](Week2-IntroTojavaScript\2.1-EssentialDevTools\2.1-EssentialDevTools.md)
-- [2.2.1 Intro to JavaScript](Week2-IntroTojavaScript\2.2-IntroToJavaScript\2.2.1-IntroToJavaScript.md)
-- [2.2.2 JS Data Types & Variables](Week2-IntroTojavaScript\2.2-IntroToJavaScript\2.2.2-DataTypes&Variables.md)
-- [2.3 JS Operators & Flow Control](Week2-IntroTojavaScript\2.3-JSOperators&FlowControl\2.3-JSOperators&FlowControl.md)
-- [2.4 UI/UX](Week2-IntroTojavaScript\2.4-UI&UX\2.4-UI&UX.md)
-- [Week 2 - Homework](Week2-IntroTojavaScript\Week2-Homework\2-Homework.md)
+- [2.1 Essential Development Tools](Week2-IntroTojavaScript/2.1-EssentialDevTools/2.1-EssentialDevTools.md)
+- [2.2.1 Intro to JavaScript](Week2-IntroTojavaScript/2.2-IntroToJavaScript/2.2.1-IntroToJavaScript.md)
+- [2.2.2 JS Data Types & Variables](Week2-IntroTojavaScript/2.2-IntroToJavaScript/2.2.2-DataTypes&Variables.md)
+- [2.3 JS Operators & Flow Control](Week2-IntroTojavaScript/2.3-JSOperators&FlowControl/2.3-JSOperators&FlowControl.md)
+- [2.4 UI/UX](Week2-IntroTojavaScript/2.4-UI&UX/2.4-UI&UX.md)
+- [Week 2 - Homework](Week2-IntroTojavaScript/Week2-Homework/2-Homework.md)
 
 ### Week 3: **JavaScript**
 
-- [3.1 Functions](Week3-JavaScript\3.1-JSFunctions\3.1-Functions.md)
-- [3.2 Arrays & Objects](Week3-JavaScript\3.2-JSArrays&Objects\3.2-DataCollections.md)
-- [3.3 HTML & CSS 1](Week3-JavaScript\3.3-HTML&CSSBasics\3.3-HTML&CSSBasics.md)
-- [3.4 HTML & CSS Addendum & Review](Week3-JavaScript\3.4-HTML&CSSReview\3.4-CSSAddendum-Units&Variables.md)
-- [Week 3 - Homework](Week3-JavaScript\Week3-Homework\3-Homework.md)
+- [3.1 Functions](Week3-JavaScript/3.1-JSFunctions/3.1-Functions.md)
+- [3.2 Arrays & Objects](Week3-JavaScript/3.2-JSArrays&Objects/3.2-DataCollections.md)
+- [3.3 HTML & CSS 1](Week3-JavaScript/3.3-HTML&CSSBasics/3.3-HTML&CSSBasics.md)
+- [3.4 HTML & CSS Addendum & Review](Week3-JavaScript/3.4-HTML&CSSReview/3.4-CSSAddendum-Units&Variables.md)
+- [Week 3 - Homework](Week3-JavaScript/Week3-Homework/3-Homework.md)
 
 ### Week 4: **Array Methods**
 
-- [4.1 Document Object Model](Week4-ArrayMethods\4.1-JS&DOM\4.1-DocumentObjectModel.md)
-- [4.2 Array Methods 1](Week4-ArrayMethods\4.2-ArrayMethods1\4.2-ArrayMethods1.md)
-- [4.3 Array Methods 2](Week4-ArrayMethods\4.3-ArrayMethods2\4.3-ArrayMethods2.md)
-- [4.4 Debugging](Week4-ArrayMethods\4.4-Debugging&Review\4.4-Debugging.md)
-- [Week 4 - Homework](Week4-ArrayMethods\Week4-Homework\4-Homework.md)
+- [4.1 Document Object Model](Week4-ArrayMethods/4.1-JS&DOM/4.1-DocumentObjectModel.md)
+- [4.2 Array Methods 1](Week4-ArrayMethods/4.2-ArrayMethods1/4.2-ArrayMethods1.md)
+- [4.3 Array Methods 2](Week4-ArrayMethods/4.3-ArrayMethods2/4.3-ArrayMethods2.md)
+- [4.4 Debugging](Week4-ArrayMethods/4.4-Debugging&Review/4.4-Debugging.md)
+- [Week 4 - Homework](Week4-ArrayMethods/Week4-Homework/4-Homework.md)
 
 ### Week 5: **Array Methods**
 
-- [5.1 HTML & CSS 2](Week5-HTML&CSS2\5.1-IntermediateHTML&CSS\5.1-IntermediateHTML&CSS.md)
-- [5.2 Classes](Week5-HTML&CSS2\5.2-JavaScriptClasses\5.2-JavaScriptClasses.md)
-- [5.3 Capstone Work](Week5-HTML&CSS2\5.3-CapstoneWork\5.3-CapstoneWork.md)
+- [5.1 HTML & CSS 2](Week5-HTML&CSS2/5.1-IntermediateHTML&CSS/5.1-IntermediateHTML&CSS.md)
+- [5.2 Classes](Week5-HTML&CSS2/5.2-JavaScriptClasses/5.2-JavaScriptClasses.md)
+- [5.3 Capstone Work](Week5-HTML&CSS2/5.3-CapstoneWork/5.3-CapstoneWork.md)
 - 5.4 Hack-A-Thon / Review -- to be added
-- [Week 5 - Homework](Week5-HTML&CSS2\Week5-Homework\5-Homework.md)
+- [Week 5 - Homework](Week5-HTML&CSS2/Week5-Homework/5-Homework.md)
 
 ### Week 6: **Single-Page Application**
 
