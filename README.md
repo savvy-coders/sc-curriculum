@@ -44,10 +44,11 @@
 
 ### Week 5: **Array Methods**
 
-- 5.1 HTML & CSS 2
-- 5.2 Classes
-- 5.3 Capstone Work
-- 5.4 Review
+- [5.1 HTML & CSS 2](Week5-HTML&CSS2\5.1-IntermediateHTML&CSS\5.1-IntermediateHTML&CSS.md)
+- [5.2 Classes](Week5-HTML&CSS2\5.2-JavaScriptClasses\5.2-JavaScriptClasses.md)
+- [5.3 Capstone Work](Week5-HTML&CSS2\5.3-CapstoneWork\5.3-CapstoneWork.md)
+- 5.4 Hack-A-Thon / Review -- to be added
+- [Week 5 - Homework](Week5-HTML&CSS2\Week5-Homework\5-Homework.md)
 
 ### Week 6: **Single-Page Application**
 
@@ -55,6 +56,7 @@
 - 6.2 SPA Components
 - 6.3 SPA State
 - 6.4 Hack-a-thon 2:
+- week 6 - Homework
 
 ### Week 7: **SPA Extras**
 
@@ -62,6 +64,7 @@
 - 7.2 APIs & Axios
 - 7.3 Node 1
 - 7.4 Firebase Supplement
+- week 7 - Homework
 
 ### Week 8: **Express & Postgres**
 
@@ -69,6 +72,7 @@
 - 8.2 Express
 - 8.3 Postgres
 - 8.4 Review
+- week 8 - Homework
 
 ### Week 9: **Capstone Work**
 
@@ -76,6 +80,7 @@
 - 9.2 Capstone Work
 - 9.3 Capstone Work
 - 9.4 Interview Prep
+- Week 9 - Homework
 
 ### Week 10: **Mock Interviews**
 
@@ -83,6 +88,7 @@
 - 10.2 Capstone Work
 - 10.3 Mock Interviews
 - 10.4 Review
+- Week 10 - Homework
 
 ### Week 11: **Capstone Work**
 
