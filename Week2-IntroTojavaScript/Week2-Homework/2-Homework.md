@@ -14,6 +14,9 @@
 
 - UI/UX: Select a color pallet for your website
 - UI/UX: Plan site navigation and Nav elements like buttons
+- Start searching for an API to use/consume in your application. Examples:
+  - [10 Fun API's to Inspire Your Next Project](https://dev.to/nialljoemaher/10-fun-api-s-to-inspire-your-next-project-3224)
+  - [Collection of Free Public APIs](https://github.com/public-apis/public-apis#public-apis--)
 
 <br>
 
