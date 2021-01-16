@@ -13,7 +13,7 @@
 
 - Add a form to your capstone and activate it through Formspree
 - Optimize capstone styling to be Mobile-First and Responsive by using Media Queries and Flexbox
-- Find an API online from which you can consume data into your project (like the weather app, Google maps, or WebMD etc.)
+- Find an API online from which you can consume data into your project (like the weather app, Google maps, or WebMD etc.) EG:- [Collection of Free Public APIs](https://github.com/public-apis/public-apis#public-apis--)
 - Also add `normalize.css`, Google fonts, a collapsible Nav Bar Hamburger Icon w/ Font Awesome, and a Jumbotron/Hero header (if needed)
 
 <br>
@@ -87,9 +87,9 @@ For example: Perhaps you are creating a webstore that sells video games and game
 
 <br>
 
-### CSS Practice: Media Queries Practice
+### CSS Media Queries Practice
 
-Included in week 5 homework is the HTML file from a site about Andre the Giant.
+Included in week 5 homework is the `index.html` file from a site about Andre the Giant.
 
 In the `styles.css` file, fix the styling for the site, and create a media query that fixes the site to correctly display on the "iPhone 6/7/8" view in DevTools.
 
