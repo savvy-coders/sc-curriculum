@@ -1,5 +1,13 @@
 # Week 1 Homework and Goals
 
+## Goal: _Capstone work_
+
+- Create a LinkedIn account and start building your professional profile
+- Start working on your Resume using the resume template
+- Review the Demo Day Outline to make sure you understand the requirements for your project. Plan accordingly
+
+<br>
+
 ## Homework is due to Stephanie by next Wednesday
 
 1. If you have not done so yet – create an account for yourself on www.github.com (name should be professional)

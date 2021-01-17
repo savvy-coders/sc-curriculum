@@ -1,4 +1,4 @@
-# Week 4 Homework and Goals
+# Homework and Goals
 
 ## Goal: _Mastery of these Skills_
 
