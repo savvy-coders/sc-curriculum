@@ -52,11 +52,11 @@
 
 ### Week 6: **Single-Page Application**
 
-- 6.1 SPA Intro
-- 6.2 SPA Components
-- 6.3 SPA State
+- [6.1 SPA Intro](Week6-SinglePageApplication\6.1-SPAIntro\6.1-SPAIntro.md)
+- [6.2 SPA Components](Week6-SinglePageApplication\6.2-SPAComponents\6.2-SPAComponents.md)
+- [6.3 SPA State](Week6-SinglePageApplication\6.3-SPAState\6.3-SPAState.md)
 - 6.4 Hack-a-thon 2:
-- week 6 - Homework
+- [week 6 - Homework](Week6-SinglePageApplication\Week6-Homework\6-Homework.md)
 
 ### Week 7: **SPA Extras**
 
