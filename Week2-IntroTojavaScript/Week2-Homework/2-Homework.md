@@ -1,4 +1,4 @@
-# Week 2 Homework and Goals
+# Homework and Goals
 
 ## Goal: _Mastery of these Skills_
 
