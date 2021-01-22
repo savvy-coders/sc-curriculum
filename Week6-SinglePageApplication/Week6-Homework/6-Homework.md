@@ -1,25 +1,31 @@
-# Week 6 Homework: Flexbox Froggy
+# Week 6 Homework and Goals
 
-## Flexbox Practice
-Go to [flexboxfroggy.com](https://flexboxfroggy.com/) and complete at least half (12), if not all the activities.
+## Goal: _Mastery of these Skills_
 
-Send a screenshot of your progress to your TA when you are finished.
+- Understand the theory of SPAs
+- Be able to setup the essential file structure of an SPA
+- Constructing SPA components with `export` and `import` statements, and Aggregating JS modules
+- Converting a stateless SPA into a state-driven SPA
+- Adding routing in an SPA
 
-Example screenshot:
-![example flexbox froggy screenshot](https://github.com/savvy-coders/sc-curriculum/blob/master/Week6-SinglePageApplication/Week6-Homework/flexboxFroggyScreenshot.png?raw=true)
+<br>
 
-## Media Queries Practice
-I've included the HTML and CSS files from Week 4's example homework solution (the site about Andre the Giant). In `styles.css`, create a media query that fixes the style issues on the "iPhone 6/7/8" view in DevTools.
+## Goal: _Capstone work_
 
-Focus on the following:
- - The `#bio` `<ul>` at the top of the page
- - `<img>` tags
- - `<div>` tags
- - links
+- Convert your capstone to an SPA
+- From this point onward you should be working on your SPA project
+- Add functionality as you learn new things in class
 
-> TIP: you may want to copy-paste some already existing css rules into your media query to make sure you are overwriting the necessary rules.
+<br>
 
-## Bonus Challenge
-In a .js file, create a few classes. Create one "general category" class, then two more specific classes which extend from the first class.
+---
 
-For example, perhaps you are creating a webstore that sells video games and game consoles. You could create a general `Item` class that holds properties that any and every item for sale shares in common, like `id`, `name`, or `price`. Then, extend `Item` with a class for `GameConsoles` and a class for `VideoGames` and include properties specific to each _category_ of item.
+<br>
+
+## HOMEWORK: -
+
+<br>
+
+- In your capstone repo create the folder structure for an SPA -- `components`, `views`, `store` and `lib`.
+- Add files for components that would be repeated on each page/view of your capstone -- `Header`, `Nav`, `Main`, and `Footer`
+- Add a file for each page in your capstone in `views` and `store`
