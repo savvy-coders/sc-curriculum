@@ -43,3 +43,7 @@
 ## 7. We now have a [live website](https://savvycoders-spa-example.netlify.com/) that anyone can access!
 
 ![Savvy Coders Example SAP website](img/SavvyCodersExampleSPA.png)
+
+<br>
+
+## You can read more about Netlify and how to Deploy a Front End Application with Netlify on freeCodeCamp at [https://www.freecodecamp.org/news/how-to-deploy-your-front-end-app/](https://www.freecodecamp.org/news/how-to-deploy-your-front-end-app/).
