@@ -1,5 +1,17 @@
 # Deploying Your Site To Netlify
 
+### **Objective: -**
+
+In this module we'll look at how to setup a website Frontend on Netlify. We will use out Practice SPA for this exercise.
+
+Deploying to Netlify is a requirement for your capstone project, and you will have to do this with your project as well.
+
+<br>
+
+---
+
+<br>
+
 ## 1. Sign-up or log-in to Netlify
 
 <br>
@@ -46,4 +58,18 @@
 
 <br>
 
-## You can read more about Netlify and how to Deploy a Front End Application with Netlify on freeCodeCamp at [https://www.freecodecamp.org/news/how-to-deploy-your-front-end-app/](https://www.freecodecamp.org/news/how-to-deploy-your-front-end-app/).
+### You can read more about Netlify and how to Deploy a Front End Application with Netlify on freeCodeCamp at [https://www.freecodecamp.org/news/how-to-deploy-your-front-end-app/](https://www.freecodecamp.org/news/how-to-deploy-your-front-end-app/).
+
+<br>
+
+---
+
+<br>
+
+### **Summary: -**
+
+In this module we learned how to setup a website Frontend on Netlify.
+
+This process can be a little tricky as Netlify uses a strict environment and throws and error on every tiny issue.We will use out Practice SPA for this exercise.
+
+However, once you get your site up and running you can be sure your frontend code base is syntactically error free.
