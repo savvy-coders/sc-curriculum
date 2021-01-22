@@ -9,6 +9,7 @@
 - template literal use
 - `if` comprehension
 - loops, modulo
+- Markdown Language
 
 ## Goal: _Capstone work_
 
@@ -45,3 +46,20 @@
 ### Bonus Challenge
 
 11. Use a _loop_ to print all of the _even_ numbers from 1 to `numberOfToppings` (or 10)
+
+<br>
+
+## Markdown Language Homework
+
+[Watch this video to learn more about Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo)
+
+12. Click on the file named README.md in the homework repo you just created. 
+13. Delete all of the text currently populating the page. 
+14. This is a Markdown Language file. In it:
+    1. Write your name in a large font
+    2. Write a subheading about you in a smaller font
+    3. Create a list that explains your goals for this course
+
+
+
+<br>
