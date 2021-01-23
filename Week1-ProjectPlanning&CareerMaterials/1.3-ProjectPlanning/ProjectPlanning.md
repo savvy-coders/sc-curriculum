@@ -81,7 +81,7 @@ Example: E-commerce Application
 
 <p float="left">
   <img src="img/20180127_093003.jpg" width="35%" />
-  <img src="img/kisspng-green-arrow-free-content-clip-art-white-right-arrow-image-download-5ab1bd58786da9.1629134515215977844933.png" width="10%" /> 
+  <img style="margin-bottom: 250px;" src="img/kisspng-green-arrow-free-content-clip-art-white-right-arrow-image-download-5ab1bd58786da9.1629134515215977844933.png" width="10%" /> 
   <img src="img/Mockups-Home.png" width="40%" />
 </p>
 
@@ -100,3 +100,23 @@ Digital Tools:
 - Adobe Illustrator ([https://www.adobe.com/products/illustrator.html](https://www.adobe.com/products/illustrator.html))
 - Mockflow ([https://mockflow.com/](https://mockflow.com/))
 - JustInMind ([https://www.justinmind.com](https://www.justinmind.com))
+
+---
+
+## Create Documentation ##
+
+Create your capstone repo (in a new folder) and add a docs folder.
+
+Create a docs folder, add documentation in the form of markdown, images or PDFs.
+
+Update your README.md file to link to your new project documentation.
+
+### Your documentation should include... ###
+- Definition of your audience (We already did this, correct?)
+- Definition statement (I want to create a web application that...) for your project
+- High level story (elevator pitch)
+- Outline of the content
+- User Flow
+- Wireframes (1 wireframe per page minimum, hand-drawn is ok!)
+
+The documentation will be included in your portfolio, so make it look nice.
