@@ -60,3 +60,43 @@ Example: E-commerce Application
 
 - Focus on page flow not content of pages
 - Make sure you analyze all user flows, creating multiple flow charts if necessary.
+
+---
+
+## Create Wire Frames ##
+
+#### Now that you think you know what you want to create.
+
+- The wireframes should be crude.  We are not creating comps.
+- Start with pencil and paper or whiteboard
+   - Then if desired, move into a digital version.
+- Create at least one per page.
+   - If a page has suffocated user interaction, multiple wireframes for a single page may be required.
+- Create wireframes for both different screen sizes.  I.E.: mobile and desktop.
+- They should be proportionally correct.
+- They should identify the content to be placed on each page but not display actual content.
+- They should annotate any user interactions.
+
+#### Start with pencil and paper or whiteboard, then if necessary create a digital version
+
+<p float="left">
+  <img src="img/20180127_093003.jpg" width="40%" />
+  <img src="img/kisspng-green-arrow-free-content-clip-art-white-right-arrow-image-download-5ab1bd58786da9.1629134515215977844933.png" width="20%" /> 
+  <img src="img/Mockups-Home.png" width="40%" />
+</p>
+
+#### Tools ####
+
+Analog Tools:
+
+- Pencil & Paper
+- Whiteboard & Dry Erase Markers
+
+Digital Tools:
+
+- Draw.io ([https://www.draw.io/](https://www.draw.io/)) <=- Recommend 
+- Adobe XD ([https://www.adobe.com/products/xd.html](https://www.adobe.com/products/xd.html))
+- Inkscape ([https://inkscape.org/](https://inkscape.org/))
+- Adobe Illustrator ([https://www.adobe.com/products/illustrator.html](https://www.adobe.com/products/illustrator.html))
+- Mockflow ([https://mockflow.com/](https://mockflow.com/))
+- JustInMind ([https://www.justinmind.com](https://www.justinmind.com))
