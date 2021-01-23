@@ -82,7 +82,7 @@ Example: E-commerce Application
 <p float="left">
   <img src="img/20180127_093003.jpg" width="35%" />
   <img src="img/kisspng-green-arrow-free-content-clip-art-white-right-arrow-image-download-5ab1bd58786da9.1629134515215977844933.png" width="10%" /> 
-  <img src="img/Mockups-Home.png" width="35%" />
+  <img src="img/Mockups-Home.png" width="40%" />
 </p>
 
 #### Tools ####
