@@ -2,13 +2,21 @@
 
 ## Goal: _Mastery of these Skills_
 
-- Understand the following...
+- Understand the implementation of calls to external resources through `fetch` or Axios
+- How to incorporate use of an API resource into an application
+- Understand how to secure environmental variables with `dotenv`
+- Node.js basic topics
+- How to setup and run a basic Node server that listens on a port
 
 <br>
 
 ## Goal: _Capstone work_
 
-- Do the following ...
+- Refine the styling of your application with CSS
+- Deploy your capstone frontend to Netlify
+- Implement an external API into your capstone
+- Secure your environmental variables, like API keys, with `dotenv`
+- Install `nodemon` for the local environment
 
 <br>
 
@@ -20,6 +28,7 @@
 
 <br>
 
-- In your capstone repo create the folder structure for an SPA -- `components`, `views`, `store` and `lib`.
-- Add files for components that would be repeated on each page/view of your capstone -- `Header`, `Nav`, `Main`, and `Footer`
-- Add a file for each page in your capstone in `views` and `store`
+- Make sure your capstone SPA runs in your local environment, and deploy the frontend to Netlify
+- Add an API call to your capstone
+- Add `dotenv` to your project
+- Set up the folder and file structure for a backend server in your capstone

@@ -70,6 +70,6 @@ Deploying to Netlify is a requirement for your capstone project, and you will ha
 
 In this module we learned how to setup a website Frontend on Netlify.
 
-This process can be a little tricky as Netlify uses a strict environment and throws and error on every tiny issue.We will use out Practice SPA for this exercise.
+This process can be a little tricky as Netlify uses a strict environment and throws and error on every tiny issue.
 
 However, once you get your site up and running you can be sure your frontend code base is syntactically error free.
