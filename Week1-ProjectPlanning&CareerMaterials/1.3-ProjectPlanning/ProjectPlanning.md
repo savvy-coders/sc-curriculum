@@ -121,7 +121,8 @@ Digital Tools:
 
 ## Homework! - Create Documentation ##
 
-1. If you have not done so yet - create an account for yourself on Github (www.github.com).   Make sure the name is professional.
+1. If you have not done so yet - create an account for yourself on Github [www.github.com](www.github.com).   Make sure the name is professional.
+1. If you haven't already done so, create your capstone repo from the [Savvy Starter](https://github.com/savvy-coders/savvy-starter) template and clone your capstone repo.
 1. Navigate to your capstone repo
 1. Create a docs folder and add documentation in the form of markdown, images or PDFs.
     1. [Documenting your projects on GitHub](https://guides.github.com/features/wikis/)
