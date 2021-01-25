@@ -8,4 +8,4 @@
 
 ## [Documenting Your Project In GitHub](https://guides.github.com/features/wikis/)
 
-## [Demo Day Checklist on the web (PDF)](https://github.com/JohanBester/sc-curriculum/blob/master/Week1-ProjectPlanning&CareerMaterials/1.3-ProjectPlanning/demo-day-checklist.pdf)
+## [Demo Day Checklist on the web (PDF)]()
