@@ -47,24 +47,24 @@
 - [5.1 HTML & CSS 2](Week5-HTML&CSS2/5.1-IntermediateHTML&CSS/5.1-IntermediateHTML&CSS.md)
 - [5.2 Classes](Week5-HTML&CSS2/5.2-JavaScriptClasses/5.2-JavaScriptClasses.md)
 - [5.3 Capstone Work](Week5-HTML&CSS2/5.3-CapstoneWork/5.3-CapstoneWork.md)
-- 5.4 Hack-A-Thon / Review -- to be added
+- 5.4 Hack-A-Thon 1 / Review -- to be added
 - [Week 5 - Homework](Week5-HTML&CSS2/Week5-Homework/5-Homework.md)
 
 ### Week 6: **Single-Page Application**
 
-- [6.1 SPA Intro](Week6-SinglePageApplication\6.1-SPAIntro\6.1-SPAIntro.md)
-- [6.2 SPA Components](Week6-SinglePageApplication\6.2-SPAComponents\6.2-SPAComponents.md)
-- [6.3 SPA State](Week6-SinglePageApplication\6.3-SPAState\6.3-SPAState.md)
-- 6.4 Hack-a-thon 2:
-- [week 6 - Homework](Week6-SinglePageApplication\Week6-Homework\6-Homework.md)
+- [6.1 SPA Intro](Week6-SinglePageApplication/6.1-SPAIntro/6.1-SPAIntro.md)
+- [6.2 SPA Components](Week6-SinglePageApplication/6.2-SPAComponents/6.2-SPAComponents.md)
+- [6.3 SPA State](Week6-SinglePageApplication/6.3-SPAState/6.3-SPAState.md)
+- 6.4 Hack-a-thon 2 / Review -- to be added
+- [week 6 - Homework](Week6-SinglePageApplication/Week6-Homework/6-Homework.md)
 
 ### Week 7: **SPA Extras**
 
-- 7.1 SPA Capstone Work
-- 7.2 APIs & Axios
-- 7.3 Node 1
-- 7.4 Firebase Supplement
-- week 7 - Homework
+- [7.1 SPA Deploying to netlify](Week7-SPAExtras/7.1-CapstoneWork/DeployingToNetlify.md)
+- [7.2 APIs & Axios](Week7-SPAExtras/7.2-APIs&Axios/7.2-APIs&Axios1.md)
+- [7.3 Node 1](Week7-SPAExtras/7.3-Node1/7.3-Node1.md)
+- [7.4 Backend Developement](Week7-SPAExtras./7.4-BackendDevelopment/7.4-BackendDevelopment.md)
+- [week 7 - Homework](Week7-SPAExtras/Week7-Homework/7-Homework.md)
 
 ### Week 8: **Express & Postgres**
 
