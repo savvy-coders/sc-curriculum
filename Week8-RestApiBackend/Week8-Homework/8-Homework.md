@@ -2,7 +2,13 @@
 
 ## Goal: _Mastery of these Skills_
 
-- Understand the following...
+- HTTP Methods for CRUD operations, and ReSTful API principles
+- Building a basic HTTP server with Node.js
+- Building a better server with Express
+- Adding middleware to the backend
+- Setting up a MongoDB database
+- Connecting MongoDB to a server
+- Building Routes for the different CRUD operations
 
 <br>
 
@@ -20,6 +26,5 @@
 
 <br>
 
-- In your capstone repo create the folder structure for an SPA -- `components`, `views`, `store` and `lib`.
-- Add files for components that would be repeated on each page/view of your capstone -- `Header`, `Nav`, `Main`, and `Footer`
-- Add a file for each page in your capstone in `views` and `store`
+- You should have the folder structure for the backend server in your SPA, else create it
+-
