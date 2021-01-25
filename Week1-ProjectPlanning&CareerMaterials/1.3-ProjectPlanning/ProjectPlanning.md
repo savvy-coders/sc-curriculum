@@ -119,7 +119,7 @@ Digital Tools:
 
 ---
 
-## Create Documentation ##
+## Homework! - Create Documentation ##
 
 1. If you have not done so yet - create an account for yourself on Github (www.github.com).   Make sure the name is professional.
 1. Navigate to your capstone repo
