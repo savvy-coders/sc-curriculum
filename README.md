@@ -13,7 +13,7 @@
 
 - 1.1 Business Concepts
 - [1.2 Career Materials](Week1-ProjectPlanning&CareerMaterials/1.2-CareerMaterials/CareerMaterialsLinks.md)
-- [1.3 Project Planning](Week1-ProjectPlanning&CareerMaterials/1.3-ProjectPlanning/ProjectPlanningLinks.md)
+- [1.3 Project Planning](Week1-ProjectPlanning&CareerMaterials/1.3-ProjectPlanning/ProjectPlanning.md)
 - [1.4 Agile - (web link to The Agile Coaching Academy)](https://courses.theagilecoach.com/users/sign_in)
 - [Week 1 - Homework](Week1-ProjectPlanning&CareerMaterials/Week1-Homework/1-Homework.md)
 
