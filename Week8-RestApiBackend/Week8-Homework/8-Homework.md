@@ -8,13 +8,14 @@
 - Adding middleware to the backend
 - Setting up a MongoDB database
 - Connecting MongoDB to a server
-- Building Routes for the different CRUD operations
+- Building Routes for the different MongoDB CRUD operations
 
 <br>
 
 ## Goal: _Capstone work_
 
-- Do the following ...
+- Build out your capstone backend by adding an Express server
+- Setup a MongoDB Database for your capstone
 
 <br>
 
@@ -26,5 +27,5 @@
 
 <br>
 
-- You should have the folder structure for the backend server in your SPA, else create it
--
+- Build an Express server for your backend
+- Start building a Mongo Database for your backend
