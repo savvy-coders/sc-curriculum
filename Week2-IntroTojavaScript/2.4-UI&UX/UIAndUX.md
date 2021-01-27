@@ -7,7 +7,7 @@
 - Keep it INTUITIVE
   - Navigation should be obvious
 - Make it  consistent
-  - Follow the "standard" for interactions a.k.a clicking a hamburger icon (![](img/bars-solid.svg)) should open the navigation and arrows (![](img/chevron-left-solid.svg),![](img/chevron-right-solid.svg)) should open drawers.
+  - Follow the "standard" for interactions a.k.a clicking a hamburger icon should open the navigation and chevrons should open drawers.
   - Keep interactions the same across the application
 - Allow users to make errors by handlers errors gracefully aka: form validation that asks the user to correct inputs that are not correct
 
@@ -83,12 +83,93 @@ Resources
 
 1. If you don't already have one, create an account on trello.com
 1. Create a new board
-  - Name the board something meaningful regarding your capstone project
+    1. Name the board something meaningful regarding your capstone project
 1. Share your board with the Instructors and Teacher's Assistants
 1. Create swin lanes which represent each step in the development process
-  1. Backlog
-    1. Brainstorming and story/defect writing
-  1. Ready for development
-    1. Story writing completed, full details and acceptance criteria
-  1. In Progress
-    1. Stories currently being worked (should be limited to 1 or 2)
+    1. Backlog
+        1. Brainstorming and story/bug writing
+    1. Ready for development
+        1. Story writing completed, full details and acceptance criteria
+    1. In Progress
+        1. Stories currently being worked (should be limited to 1 or 2)
+    
+## Create your Stories/Bugs
+
+1. Create a card, could be classified as a story (new feature) or a bug (defect in the code)
+    1. Steps to creating a card
+        1. Add a title
+            1. Should be a BRIEF description of the requested feature or defect
+        1. Define "Definition of Done"
+            1. Story
+                1. "As a [persona], I [want to], [so that]..."
+            1. Bug
+                1. Describe how to reproduce the defect and what should be done to correct the issue.
+        1. Prioritize
+            1. HTML comes before CSS and JavaScript, then Backend API...
+        1. Estimate
+            1. In hours how long you expect it to complete
+        1. MVP (Minimum Viable Product), Optional, Future
+    
+Stories are NOT tasks, they are the definition of a feature
+- You should task out each story, such as write the HTML, CSS and JavaScript, which we will cover next
+
+Resources
+- [Atlassin Tutorial](https://www.atlassian.com/agile/project-management/user-stories)
+- [How To Write User Stories by Robert Smith](https://www.youtube.com/watch?v=eYZ8vBXL1kk), [Part 2](https://www.youtube.com/watch?v=_iodOh-QTww)
+- [Example of thought process for a simple task such as create a PBJ Sandwich](https://youtu.be/5X58UgQpGyQ)
+
+## Task out your Stories/Bugs
+
+1. Create a task list within your story/bug
+    1. Use the Github checklist within the description section to add a list of tasks
+        1. Define tasks required to fulfill the definition of done
+        1. Prioritize the tasks and sort by priority
+        1. Estimate/Time Box
+            1. Keep in mind your total time line estimate from earlier
+            1. For tasks you haven't done before, multiple by 1.5 or 2
+            1. Time boxing, determine the max time to spend on an optional feature
+                1. Once that time has elapsed, stop work and reevaluate if there is a better use of your time
+    
+Resource
+- [Timebox](https://www.agilealliance.org/glossary/timebox)
+
+### Example Story
+
+![](img/story-example.png)
+
+## Develop your Web Application
+
+#### THe FUN part
+
+- Update your kanban board as you start and complete stories and tasks.
+- You and others should be able to gauge your completeness by the board status.
+
+## Test your Web Application
+
+#### What you should be testing?
+
+- Make sure it behaves correctly.
+- Make sure it looks correct, at different window sizes
+  
+#### How should you test?
+
+- Test as stories are completed 
+- Test on many devices and resolutions
+- Test in multiple web browsers
+    - Chrome, Safari, Microsoft Edge, if suicidal Internet Explorer
+- Have others test
+    - You should observe them testing and listen to their feedback
+    - Have teacher, mentors, peers, friend (smart & dumb), your kids, your parents
+    
+## HOMEWORK! - Update the Documentation from Project Planning
+
+Document the entire process of design, development and testing.
+
+- Reference your decisions when questions arise.
+- The documentation will be included in your portfolio, so make it look nice.
+
+Documentation should include:
+- Your decisions
+    - Selected fonts, icons, images and color scheme
+- Your timeline
+- Link to your Trello board
