@@ -39,7 +39,7 @@
 - [4.1 Document Object Model](Week4-ArrayMethods/4.1-JS&DOM/4.1-DocumentObjectModel.md)
 - [4.2 Array Methods 1](Week4-ArrayMethods/4.2-ArrayMethods1/4.2-ArrayMethods1.md)
 - [4.3 Array Methods 2](Week4-ArrayMethods/4.3-ArrayMethods2/4.3-ArrayMethods2.md)
-- [4.4 Debugging](Week4-ArrayMethods/4.4-Debugging&Review/4.4-Debugging.md)
+- [4.4 Debugging](Week4-ArrayMethods/4.4-Debugging&Review/4.4-DebuggingWithVSCode.md)
 - [Week 4 - Homework](Week4-ArrayMethods/Week4-Homework/4-Homework.md)
 
 ### Week 5: **Array Methods**
