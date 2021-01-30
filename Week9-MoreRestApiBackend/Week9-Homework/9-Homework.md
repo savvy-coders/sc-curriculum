@@ -2,13 +2,18 @@
 
 ## Goal: _Mastery of these Skills_
 
-- Understand the following...
+- Setting up a MongoDB database
+- Connecting MongoDB to a server
+- Building Routes for the different MongoDB CRUD operations
 
 <br>
 
 ## Goal: _Capstone work_
 
-- Do the following ...
+- Setup a MongoDB Database for your capstone
+- Complete your backend and link it to your frontend
+- Host the backend on Heroku
+- Start planning how to present your awesome capstone application on demo day
 
 <br>
 
@@ -20,6 +25,5 @@
 
 <br>
 
-- In your capstone repo create the folder structure for an SPA -- `components`, `views`, `store` and `lib`.
-- Add files for components that would be repeated on each page/view of your capstone -- `Header`, `Nav`, `Main`, and `Footer`
-- Add a file for each page in your capstone in `views` and `store`
+- Build out the backend and connect it to your frontend
+- Host the backend on Heroku
