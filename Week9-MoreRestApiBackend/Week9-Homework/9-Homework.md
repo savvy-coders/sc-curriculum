@@ -5,6 +5,7 @@
 - Setting up a MongoDB database
 - Connecting MongoDB to a server
 - Building Routes for the different MongoDB CRUD operations
+- Bring the frontend and backend together by connecting the SPA to the REST API server
 
 <br>
 
