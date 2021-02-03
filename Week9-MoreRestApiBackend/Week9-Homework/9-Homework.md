@@ -2,7 +2,7 @@
 
 ## Goal: _Mastery of these Skills_
 
-- Setting up a MongoDB Atlas
+- Setting up MongoDB Atlas
 - Connecting MongoDB to a server
 - Building Routes for the different CRUD operations within resource controls
 - Bring the frontend and backend together by connecting the SPA to the REST API server
