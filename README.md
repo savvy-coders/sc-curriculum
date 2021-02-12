@@ -19,17 +19,17 @@
 
 - [Lesson 2.1 Essential Development Tools](Section2-IntroTojavaScript/2.1-EssentialDevTools.md)
 - [Lesson 2.2.1 Intro to JavaScript](Section2-IntroTojavaScript/2.2.1-IntroToJavaScript.md)
-- [Lesson 2.2.2 JS Data Types & Variables](Section2-IntroTojavaScript/2.2.2-DataTypes&Variables.md)
-- [Lesson 2.3 JS Operators & Flow Control](Section2-IntroTojavaScript/2.3-JSOperators&FlowControl.md)
+- [Lesson 2.2.2 JS Data Types And Variables](Section2-IntroTojavaScript/2.2.2-DataTypesAndVariables.md)
+- [Lesson 2.3 JS Operators And Flow Control](Section2-IntroTojavaScript/2.3-JSOperatorsAndFlowControl.md)
 - [Lesson 2.4 UI/UX](Section2-IntroTojavaScript/2.4-UIAndUX.md)
 - [Section 2 - Homework](Section2-IntroTojavaScript/2-Homework.md)
 
-## Section 3: **JavaScript, and HTML & CSS I**
+## Section 3: **JavaScript, and HTML And CSS I**
 
 - [Lesson 3.1 Functions](Section3-JavaScript/3.1-Functions.md)
-- [Lesson 3.2 Arrays & Objects](Section3-JavaScript/3.2-DataCollections.md)
-- [Lesson 3.3 HTML & CSS 1](Section3-JavaScript/3.3-HTMLAndCSSBasics.md)
-- [Lesson 3.4 HTML & CSS Addendum & Review](Section3-JavaScript/3.4-CSSAddendum-UnitsAndVariables.md)
+- [Lesson 3.2 Arrays And Objects](Section3-JavaScript/3.2-DataCollections.md)
+- [Lesson 3.3 HTML And CSS 1](Section3-JavaScript/3.3-HTMLAndCSSBasics.md)
+- [Lesson 3.4 HTML And CSS Addendum And Review](Section3-JavaScript/3.4-CSSAddendum-UnitsAndVariables.md)
 - [Section 3 - Homework](Section3-JavaScript/3-Homework.md)
 
 ## Section 4: **The DOM, Array Methods, and Debugging**
@@ -40,9 +40,9 @@
 - [Lesson 4.4 Debugging](Section4-ArrayMethods/4.4-DebuggingWithVSCode.md)
 - [Section 4 - Homework](Section4-ArrayMethods/4-Homework.md)
 
-## Section 5: **HTML & CSS II, JS Classes, and Capstone work**
+## Section 5: **HTML And CSS II, JS Classes, and Capstone work**
 
-- [Lesson 5.1 HTML & CSS 2](Section5-HTMLAndCSS2/5.1-IntermediateHTML&CSS.md)
+- [Lesson 5.1 HTML And CSS 2](Section5-HTMLAndCSS2/5.1-IntermediateHTMLAndCSS.md)
 - [Lesson 5.2 Classes](Section5-HTMLAndCSS2/5.2-JavaScriptClasses.md)
 - [Lesson 5.3 Capstone Work](Section5-HTMLAndCSS2/5.3-CapstoneWork.md)
 - [Section 5 - Homework](Section5-HTMLAndCSS2/5-Homework.md)
@@ -57,7 +57,7 @@
 ## Section 7: **SPA Extras, Netlify, and Node**
 
 - [Lesson 7.1 SPA Deploying to Netlify](Section7-SPAExtras/7.1-DeployingToNetlify.md)
-- [Lesson 7.2 APIs & Axios](Section7-SPAExtras/7.2-APIs&Axios1.md)
+- [Lesson 7.2 APIs And Axios](Section7-SPAExtras/7.2-APIsAndAxios1.md)
 - [Lesson 7.3 Node](Section7-SPAExtras/7.3-Node1.md)
 - [Lesson 7.4 Backend Developement](Week7-SPAExtras./7.4-BackendDevelopment/7.4-BackendDevelopment.md)
 - [Section 7 - Homework](Section7-SPAExtras/7-Homework.md)
@@ -76,7 +76,7 @@
 - [Lesson 9.3 Hosting the Backend on Heroku](Section9-MoreRestApiBackend/9.3-Hosting-On-Heroku.md)
 - [Section 9 - Homework](Section9-MoreRestApiBackend/9-Homework.md)
 
-## Section 10: **Project work & Interview Prep**
+## Section 10: **Project work And Interview Prep**
 
 - Lesson 10.1 Hosting
 - Lesson 10.2 Interview Prep
@@ -87,7 +87,7 @@
 
 - 11.1 Capstone Work
 - 11.2 Capstone Work
-- Lesson 11.3 Whiteboarding & Capstone Work
+- Lesson 11.3 Whiteboarding And Capstone Work
 - 11.4 Mock Interviews
 
 ## Section 12: **Demo Day Prep**
