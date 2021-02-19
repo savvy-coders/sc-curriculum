@@ -2,12 +2,15 @@
 
 ### Table of Content
 
-- Additional coding exercises / problems
-- Additional database resources
-- APIs to enhance a web project
-- Books to read on coding and computing
-- Coding sites to practice and earn badges
-- Frontend development resources
+- [Additional coding exercises and problems](#additional-coding-exercises-and-problems)
+- [Additional database resources](#additional-database-resources)
+- [Agile and Scrum methodologies](#agile-and-scrum-methodologies)
+- [APIs to enhance a web project](#apis-to-enhance-a-web-project)
+- [Books to read on coding and computing](#books-to-read-on-coding-and-computing)
+- [Coding Communities to gain more info](#coding-communities-to-gain-more-info)
+- [Coding sites to practice and earn badges](#coding-sites-to-practice-and-earn-badges)
+- [Computer and Data Science basics](#computer-and-data-science-basics)
+- [Frontend development resources](#frontend-development-resources)
 - Git and GitHub resources
 - Handy coding tools
 - Hosting the frontend and backend
@@ -16,7 +19,7 @@
 - Markdown crash course
 - Meetups @ Meetup.com
 - Other Bootcamps
-- Regular Expressions (RegEx) in JS
+- Regular Expressions (RegEx) in JavaScript
 - Sites with additional training courses
 - Single-Page-Applications (SPAs)
 
@@ -28,7 +31,7 @@
 
 <br>
 
-## Additional Coding Exercises / Projects
+## Additional coding exercises and problems
 
 - [JavaScript30](https://www.javascript30.com) - Build 30 things in 30 days with 30 tutorials
 - [Learn CSS Grid with Wes Bos in 25 videos](https://cssgrid.io/)
@@ -48,15 +51,33 @@
 
 ## Additional Database Resources
 
+### **SQL Database**
+
 - [Simple SQL Queries - I](https://github.com/bahull/simple-sql-queries)
 - [Simple SQL Queries - II](https://github.com/bahull/simple-sql-queries-afternoon)
 - [Intermediate SQL Queries - I](https://github.com/bahull/intermediate-sql-queries)
 - [Intermediate SQL Queries - II](https://github.com/bahull/intermediate-sql-queries-afternoon)
-- [JSON document collections in an `Oracle Autonomous JSON Database` (AJD)](https://blogs.oracle.com/developers/launch-persist-json-documents-in-the-cloud-in-10-minutes-or-less-with-autonomous-json-database)
-- [MongoDB University: Free MongoDB Official Courses](https://university.mongodb.com/)
-- ### [Google Firebase](AddendumOfResources/FirebaseSupplement/GoogleFirebase.md)
+- [PostgreSQL relational-DB](AddendumOfResources/Relational-DB-Postgres/Relational-DB-Postgres.md)
 
-- ### [PostgreSQL relational-DB](AddendumOfResources/Relational-DB-Postgres/Relational-DB-Postgres.md)
+### **Non-SQL / JSON / Document Databases**
+
+- [What is MongoDB - in 5 Minutes with Eliot Horowitz (YouTube video)](https://www.youtube.com/watch?v=EE8ZTQxa0AM&feature=emb_logo)
+- [MongoDB Crash Course - YouTube video (37 mins.)](https://www.youtube.com/watch?v=-56x56UppqQ)
+- [MongoDB Complete Introduction & Summary YouTube video (40 mins.)](https://www.youtube.com/watch?v=VELru-FCWDM&feature=emb_logo)
+- [MongoDB University: Free MongoDB Official Courses](https://university.mongodb.com/)
+
+- [Google Firebase](AddendumOfResources/FirebaseSupplement/GoogleFirebase.md)
+- [JSON document collections in an `Oracle Autonomous JSON Database` (AJD)](https://blogs.oracle.com/developers/launch-persist-json-documents-in-the-cloud-in-10-minutes-or-less-with-autonomous-json-database)
+
+<br>
+
+---
+
+<br>
+
+## Agile and Scrum methodologies
+
+- [Agile Scrum Development Process and How UI/UX Design Fit In](https://youtu.be/yc3J2TGreBo) (YouTube video)
 
 <br>
 
@@ -81,7 +102,18 @@
 
 ## Books to read on coding and computing
 
--
+Here are some E-books and a list of 'old fashioned' physical books to read.
+
+### E-books
+
+- [The Essential Git Handbook](https://www.freecodecamp.org/news/the-essential-git-handbook-a1cf77ed11b5/)
+- [The Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
+- [The HTML Handbook](https://www.freecodecamp.org/news/the-html-handbook/)
+- [The CSS Handbook: a handy guide to CSS for developers](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
+- [The JavaScript Beginner's Handbook (2020 Edition)](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
+- [The Definitive JavaScript Handbook for your next developer interview](https://www.freecodecamp.org/news/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e/)
+
+### Physical Books
 
 <br>
 
@@ -123,7 +155,7 @@
 
 <br>
 
-## Frontend Development resources
+## Frontend development resources
 
 - [How to Manipulate the DOM](https://www.freecodecamp.org/news/how-to-manipulate-the-dom-beginners-guide/) - Get to feel comfortable with DOM manipulations
 - [Kevin Powell's YouTube Frontend Channel.](https://youtube.com/kepowob) Helping you learn how to make the web, and make it look good while you're at it
@@ -141,10 +173,11 @@
 ## Git and GitHub Resources
 
 - [Translating GIT terms](https://docs.google.com/document/d/149nAWuWakI9wCIVrePBYS7ZHEX2dwdjQqfO6wyaPGAI/edit)
-
 - [Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk)
+- [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) (YouTube video)
+- [Git - the simple guide](https://rogerdudler.github.io/git-guide/)
 
-<br>
+  <br>
 
 ---
 
@@ -197,7 +230,9 @@ CodePen.io is a social development environment for front-end designers and devel
 ## JavaScript resources
 
 - [The 9 most common mistakes developers make in JavaScript](https://www.freecodecamp.org/news/nine-most-common-mistakes-developers-make-in-javascript/) - and how to fix them
+- [JavaScript Higher Order Functions & Arrays](https://youtu.be/rRgD1yVwIvE) (YouTube video)
 - [Try/Catch in JavaScript](https://www.freecodecamp.org/news/try-catch-in-javascript/) – How to handle errors in JS
+- [Async JS Crash Course - Callbacks, Promises, Async Await ](https://youtu.be/PoRJizFvM7s) (YouTube video)
 
 <br>
 
