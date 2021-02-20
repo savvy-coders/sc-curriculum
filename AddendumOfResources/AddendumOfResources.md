@@ -2,26 +2,61 @@
 
 ### Table of Content
 
+### A
+
 - [Additional coding exercises and problems](#additional-coding-exercises-and-problems)
-- [Additional database resources](#additional-database-resources)
 - [Agile and Scrum methodologies](#agile-and-scrum-methodologies)
 - [APIs to enhance a web project](#apis-to-enhance-a-web-project)
+
+### B
+
 - [Books to read on coding and computing](#books-to-read-on-coding-and-computing)
+
+### C
+
 - [Coding Communities to gain more info](#coding-communities-to-gain-more-info)
 - [Coding sites to practice and earn badges](#coding-sites-to-practice-and-earn-badges)
 - [Computer and Data Science basics](#computer-and-data-science-basics)
+
+### D
+
+- [Database resources](#database-resources)
+
+### F
+
 - [Frontend development resources](#frontend-development-resources)
-- Git and GitHub resources
-- Handy coding tools
-- Hosting the frontend and backend
-- HTML & CSS resources
-- JavaScript resources
-- Markdown crash course
-- Meetups @ Meetup.com
-- Other Bootcamps
-- Regular Expressions (RegEx) in JavaScript
-- Sites with additional training courses
-- Single-Page-Applications (SPAs)
+
+### G
+
+- [Git and GitHub resources](#git-and-gitHub-resources)
+
+### H
+
+- [Handy coding tools](#handy-coding-tools)
+- [Hosting the frontend and backend](#hosting-the-frontend-and-backend)
+- [HTML & CSS resources](#html-&-css-resources)
+
+### J
+
+- [JavaScript resources](#javascript-resources)
+
+### M
+
+- [Markdown crash course](#markdown-crash-course)
+- [Meetups @ Meetup.com](#meetups-@-meetup.com)
+
+### O
+
+- [Other Bootcamps](#other-bootcamps)
+
+### R
+
+- [RegEx: Regular Expressions in JavaScript](#regex:-regular-expressions-in-javascript)
+
+### S
+
+- [Sites with additional training courses](#sites-with-additional-training-courses)
+- [SPA's: Single-Page-Applications](#spa's:-single-page-applications)
 
 <br>
 
@@ -42,32 +77,6 @@
 - [Simple Programming Problems](https://adriann.github.io/programming_problems.html)
 - [Become a frontend master with these 10 project ideas](https://css-tricks.com/become-a-front-end-master-in-2020-with-these-10-project-ideas/)
 - [Projects to build with frontend Frameworks - learn to become a frontend master](https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h)
-
-<br>
-
----
-
-<br>
-
-## Additional Database Resources
-
-### **SQL Database**
-
-- [Simple SQL Queries - I](https://github.com/bahull/simple-sql-queries)
-- [Simple SQL Queries - II](https://github.com/bahull/simple-sql-queries-afternoon)
-- [Intermediate SQL Queries - I](https://github.com/bahull/intermediate-sql-queries)
-- [Intermediate SQL Queries - II](https://github.com/bahull/intermediate-sql-queries-afternoon)
-- [PostgreSQL relational-DB](AddendumOfResources/Relational-DB-Postgres/Relational-DB-Postgres.md)
-
-### **Non-SQL / JSON / Document Databases**
-
-- [What is MongoDB - in 5 Minutes with Eliot Horowitz (YouTube video)](https://www.youtube.com/watch?v=EE8ZTQxa0AM&feature=emb_logo)
-- [MongoDB Crash Course - YouTube video (37 mins.)](https://www.youtube.com/watch?v=-56x56UppqQ)
-- [MongoDB Complete Introduction & Summary YouTube video (40 mins.)](https://www.youtube.com/watch?v=VELru-FCWDM&feature=emb_logo)
-- [MongoDB University: Free MongoDB Official Courses](https://university.mongodb.com/)
-
-- [Google Firebase](AddendumOfResources/FirebaseSupplement/GoogleFirebase.md)
-- [JSON document collections in an `Oracle Autonomous JSON Database` (AJD)](https://blogs.oracle.com/developers/launch-persist-json-documents-in-the-cloud-in-10-minutes-or-less-with-autonomous-json-database)
 
 <br>
 
@@ -148,6 +157,32 @@ Here are some E-books and a list of 'old fashioned' physical books to read.
 ## Computer and Data Science basics
 
 - [How do computers and the internet work?]()
+
+<br>
+
+---
+
+<br>
+
+## Database Resources
+
+### **SQL Database**
+
+- [Simple SQL Queries - I](https://github.com/bahull/simple-sql-queries)
+- [Simple SQL Queries - II](https://github.com/bahull/simple-sql-queries-afternoon)
+- [Intermediate SQL Queries - I](https://github.com/bahull/intermediate-sql-queries)
+- [Intermediate SQL Queries - II](https://github.com/bahull/intermediate-sql-queries-afternoon)
+- [PostgreSQL relational-DB](AddendumOfResources/Relational-DB-Postgres/Relational-DB-Postgres.md)
+
+### **Non-SQL / JSON / Document Databases**
+
+- [What is MongoDB - in 5 Minutes with Eliot Horowitz (YouTube video)](https://www.youtube.com/watch?v=EE8ZTQxa0AM&feature=emb_logo)
+- [MongoDB Crash Course - YouTube video (37 mins.)](https://www.youtube.com/watch?v=-56x56UppqQ)
+- [MongoDB Complete Introduction & Summary YouTube video (40 mins.)](https://www.youtube.com/watch?v=VELru-FCWDM&feature=emb_logo)
+- [MongoDB University: Free MongoDB Official Courses](https://university.mongodb.com/)
+
+- [Google Firebase](AddendumOfResources/FirebaseSupplement/GoogleFirebase.md)
+- [JSON document collections in an `Oracle Autonomous JSON Database` (AJD)](https://blogs.oracle.com/developers/launch-persist-json-documents-in-the-cloud-in-10-minutes-or-less-with-autonomous-json-database)
 
 <br>
 
@@ -279,7 +314,7 @@ Create a profile for yourself and select your areas of interest
 
 <br>
 
-## Regular Expressions (RegEx) in JavaScript - debugging code
+## RegEx: Regular Expressions in JavaScript
 
 - www.sitepoint.com/expressions-javascript/
 - www.youtube.com/watch?v=VrT3TRDDE4M
@@ -311,7 +346,7 @@ Create a profile for yourself and select your areas of interest
 
 <br>
 
-## Single-Page-Applications (SPAs)
+## SPA's: Single-Page-Applications
 
 - [How The Model View Controller Architecture Works](https://www.freecodecamp.org/news/model-view-architecture/)
 - [What is "State" in Programming?](https://youtu.be/g8-Xrpl_Uhk) Watch this YouTube video for a simple explanation
