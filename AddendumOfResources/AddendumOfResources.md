@@ -211,7 +211,7 @@ Here are some E-books and a list of 'old fashioned' physical books to read.
 - [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) (YouTube video)
 - [Git - the simple guide](https://rogerdudler.github.io/git-guide/)
 
-  <br>
+<br>
 
 ---
 
