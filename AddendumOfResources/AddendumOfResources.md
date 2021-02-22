@@ -180,7 +180,6 @@ Here are some E-books and a list of 'old fashioned' physical books to read.
 - [MongoDB Crash Course - YouTube video (37 mins.)](https://www.youtube.com/watch?v=-56x56UppqQ)
 - [MongoDB Complete Introduction & Summary YouTube video (40 mins.)](https://www.youtube.com/watch?v=VELru-FCWDM&feature=emb_logo)
 - [MongoDB University: Free MongoDB Official Courses](https://university.mongodb.com/)
-
 - [Google Firebase](AddendumOfResources/FirebaseSupplement/GoogleFirebase.md)
 - [JSON document collections in an `Oracle Autonomous JSON Database` (AJD)](https://blogs.oracle.com/developers/launch-persist-json-documents-in-the-cloud-in-10-minutes-or-less-with-autonomous-json-database)
 
