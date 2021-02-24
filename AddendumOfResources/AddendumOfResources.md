@@ -253,6 +253,7 @@ CodePen.io is a social development environment for front-end designers and devel
 - [CSSBattle!](https://cssbattle.dev/) CSS code-golfing is here! Use your CSS skills to replicate targets with smallest possible code.
 - [Floats, Flexbox, Grid? The progression of CSS layouts](https://youtu.be/R7gqJkdc5dM)
 - [Form Validation: Constraint Validation in HTML](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
+- [HTML Basics for Beginners in Just 15 Minutes](https://www.freecodecamp.org/news/html-basics-for-beginners/)
 - [HTML Div Table Generator](https://divtable.com/generator/) - Generate HTML Div table grids for websites in just a few easy steps.
 
 <br>
@@ -349,3 +350,5 @@ Create a profile for yourself and select your areas of interest
 
 - [How The Model View Controller Architecture Works](https://www.freecodecamp.org/news/model-view-architecture/)
 - [What is "State" in Programming?](https://youtu.be/g8-Xrpl_Uhk) Watch this YouTube video for a simple explanation
+
+---
