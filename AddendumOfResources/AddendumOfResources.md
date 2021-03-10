@@ -180,7 +180,6 @@ Here are some E-books and a list of 'old fashioned' physical books to read.
 - [MongoDB Crash Course - YouTube video (37 mins.)](https://www.youtube.com/watch?v=-56x56UppqQ)
 - [MongoDB Complete Introduction & Summary YouTube video (40 mins.)](https://www.youtube.com/watch?v=VELru-FCWDM&feature=emb_logo)
 - [MongoDB University: Free MongoDB Official Courses](https://university.mongodb.com/)
-
 - [Google Firebase](AddendumOfResources/FirebaseSupplement/GoogleFirebase.md)
 - [JSON document collections in an `Oracle Autonomous JSON Database` (AJD)](https://blogs.oracle.com/developers/launch-persist-json-documents-in-the-cloud-in-10-minutes-or-less-with-autonomous-json-database)
 
@@ -212,7 +211,7 @@ Here are some E-books and a list of 'old fashioned' physical books to read.
 - [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) (YouTube video)
 - [Git - the simple guide](https://rogerdudler.github.io/git-guide/)
 
-  <br>
+<br>
 
 ---
 
@@ -254,6 +253,7 @@ CodePen.io is a social development environment for front-end designers and devel
 - [CSSBattle!](https://cssbattle.dev/) CSS code-golfing is here! Use your CSS skills to replicate targets with smallest possible code.
 - [Floats, Flexbox, Grid? The progression of CSS layouts](https://youtu.be/R7gqJkdc5dM)
 - [Form Validation: Constraint Validation in HTML](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
+- [HTML Basics for Beginners in Just 15 Minutes](https://www.freecodecamp.org/news/html-basics-for-beginners/)
 - [HTML Div Table Generator](https://divtable.com/generator/) - Generate HTML Div table grids for websites in just a few easy steps.
 
 <br>
@@ -350,3 +350,5 @@ Create a profile for yourself and select your areas of interest
 
 - [How The Model View Controller Architecture Works](https://www.freecodecamp.org/news/model-view-architecture/)
 - [What is "State" in Programming?](https://youtu.be/g8-Xrpl_Uhk) Watch this YouTube video for a simple explanation
+
+---
