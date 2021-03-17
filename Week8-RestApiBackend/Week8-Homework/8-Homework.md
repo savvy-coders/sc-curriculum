@@ -6,15 +6,14 @@
 - Building a basic HTTP server with Node.js
 - Building a better server with Express
 - Adding middleware to the backend
-- Setting up a MongoDB database
-- Connecting MongoDB to a server
-- Building Routes for the different CRUD operations
 
 <br>
 
 ## Goal: _Capstone work_
 
-- Do the following ...
+- Implement the server folder in your capstone repo
+- Implement the basic HTTP node server with the status route (see 8.2)
+- Implement the body.Parser middleware
 
 <br>
 
@@ -26,5 +25,6 @@
 
 <br>
 
-- You should have the folder structure for the backend server in your SPA, else create it
--
+- Build an Express server for your backend
+- [Review and understand HTTP Verbs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+- [Review and understand the concept of Middleware](https://expressjs.com/en/guide/using-middleware.html)

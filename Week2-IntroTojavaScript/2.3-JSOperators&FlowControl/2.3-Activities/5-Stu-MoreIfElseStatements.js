@@ -1,7 +1,8 @@
 // replace the 1 with different numbers to test different conditions
 let num = 1;
 
-// ? fill in all the parentheses with conditions to log the correct statements
+// fill in all the parentheses with conditions to log the correct statements
+
 if ( ) {
   console.log("The number is greater than 100.");
 } else if ( ) {

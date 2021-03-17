@@ -2,24 +2,16 @@
 
 ## Goal: _Mastery of these Skills_
 
-- Understand the following...
+- Setting up MongoDB Atlas
+- Connecting MongoDB to a server
+- Building Routes for the different CRUD operations within resource controls
+- Bring the frontend and backend together by connecting the SPA to the REST API server
 
 <br>
 
 ## Goal: _Capstone work_
 
-- Do the following ...
-
-<br>
-
----
-
-<br>
-
-## HOMEWORK: -
-
-<br>
-
-- In your capstone repo create the folder structure for an SPA -- `components`, `views`, `store` and `lib`.
-- Add files for components that would be repeated on each page/view of your capstone -- `Header`, `Nav`, `Main`, and `Footer`
-- Add a file for each page in your capstone in `views` and `store`
+- Setup a MongoDB Atlas Database (online) for your capstone
+- Host the backend on Heroku and connect MongoDB Atlas
+- Complete your backend and link it to your frontend
+- Start planning how to present your awesome capstone application on demo day
