@@ -1,5 +1,4 @@
 const express = require("express");
-const bodyParser = require("body-parser");
 const mongoose = require("mongoose");
 
 const app = express();
@@ -10,7 +9,7 @@ const logging = (request, response, next) => {
   next();
 };
 
-app.use(bodyParser.json());
+app.use(express.json());
 app.use(logging);
 
 // Database stuff
