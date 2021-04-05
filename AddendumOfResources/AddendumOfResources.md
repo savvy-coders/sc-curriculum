@@ -86,7 +86,14 @@
 
 ## Agile and Scrum methodologies
 
+- [The Manifesto for Agile Software Development](https://agilemanifesto.org/)
+- [The 12 Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html)
 - [Agile Scrum Development Process and How UI/UX Design Fit In](https://youtu.be/yc3J2TGreBo) (YouTube video)
+- [The 2020 Scrum Guide -- online version](https://scrumguides.org/scrum-guide.html)
+- [The Scrum Guide™ - The Definitive Guide to Scrum: The Rules of the Game](https://scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf)
+- [Kanban VS Scrum - How to be Agile](https://www.freecodecamp.org/news/being-agile-kanban-vs-scrum/)
+- [How to get certified as a professional scrum master - both the fast and the slow way](https://www.freecodecamp.org/news/how-to-get-certified-as-a-professional-scrum-master-the-fast-and-the-slow-way/)
+- [Suggested Reading for Professional Scrum Master™ I](https://www.scrum.org/resources/suggested-reading-professional-scrum-master)
 
 <br>
 
