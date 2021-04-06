@@ -80,7 +80,7 @@
 
 - Lesson 10.1 Hosting
 - Lesson 10.2 Interview Prep
-- Lesson 10.3 Unit Testing
+- [Lesson 10.3 Unit Testing](Section10-ProjectWorkAndInterviewPrep/10.3-Unit-Testing.md)
 - 10.4 Review
 
 ## Section 11: **Project work, Whiteboarding and Mock Interviews**
