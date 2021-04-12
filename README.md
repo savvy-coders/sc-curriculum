@@ -2,7 +2,7 @@
 
 ### Section 0: **Setting-up Your Development Environment**
 
-- [0.1-Local Development Environment](Section0-DevelopmentEnvironment/0.1-Local-dev-encironment.md)
+- [0.1-Local Development Environment](Section0-DevelopmentEnvironment/0.1-Local-dev-environment.md)
 - [For Mac/Linux Users](Section0-DevelopmentEnvironment/0.1.1-ForMacUsers.md)
 - [For Windows Users](Section0-DevelopmentEnvironment/0.1.2-ForWindowsUsers.md)
 - [Section 0 - Pre-Homework](Section0-DevelopmentEnvironment/0-PreHomework.md)
