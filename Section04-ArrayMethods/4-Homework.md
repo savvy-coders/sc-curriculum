@@ -17,6 +17,10 @@
 
 <br>
 
+## Homework is due to your TA by next Monday before class
+
+<br>
+
 ## HTML & JS homework set-up
 
 1. Add a "Week 4 Homework" _folder_ to your homework repo

@@ -22,7 +22,7 @@
 
 <br>
 
-## HOMEWORK: -
+## Homework is due to your TA by next Monday before class
 
 <br>
 
