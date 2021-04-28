@@ -19,6 +19,10 @@
 
 <br>
 
+## Homework is due to your TA by next Monday before class
+
+<br>
+
 ## Homework Set-up
 
 1. Add a "Week 3 Homework" _file_ to your homework repo

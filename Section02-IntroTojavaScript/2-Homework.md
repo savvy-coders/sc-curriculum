@@ -25,6 +25,10 @@
 
 <br>
 
+## Homework is due to your TA by next Monday before class
+
+<br>
+
 ## Set-up your Homework repo on GitHub
 
 1. Use the [Savvy-Homework template repo](https://github.com/savvy-coders/savvy-homework) to _create a new GitHub repo for homework_ - name it something that indicates it is for **Savvy Coders Homework**
@@ -53,8 +57,8 @@
 
 [Watch this video to learn more about Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo)
 
-12. Click on the file named README.md in the homework repo you just created. 
-13. Delete all of the text currently populating the page. 
+12. Click on the file named README.md in the homework repo you just created.
+13. Delete all of the text currently populating the page.
 14. This is a Markdown Language file. In it:
     1. Write your name in a large font
     2. Write a subheading about you in a smaller font
