@@ -109,6 +109,10 @@
   - [Twitter](https://dev.twitter.com/docs/api)
   - [Facebook ](http://developers.facebook.com/docs/reference/api/)
   - [LinkedIn ](https://developer.linkedin.com/apis)
+  - [New York Times](https://developer.nytimes.com/)
+  - [The Ultimate list of fun APIs](https://learn.vonage.com/blog/2021/03/15/the-ultimate-list-of-fun-apis-for-your-next-coding-project/)
+  - [Fun API List](https://apilist.fun/)
+  - [Most Popular Open APIs](https://rapidapi.com/blog/most-popular-api/#openapi-12)
 
 <br>
 
