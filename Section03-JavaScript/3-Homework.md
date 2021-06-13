@@ -54,3 +54,19 @@
    - i.e. "Our toppings are a, b, and c." instead of "Our toppings are a, b, c"
 10. In `getPizzaOrder`, if an order is placed with no toppings, print a slightly different message, like "One large thick crust cheese pizza coming up!" (Instead of "One large thick crust pizza with coming up!"). Alter `servePizza` in a similar way to fix its grammar when serving a "plain" cheese pizza.
 11. In `getPizzaOrder`, check the toppings the customer ordered against your list of available toppings. If they order a topping you don't offer, print a message that informs them you don't offer that topping and to order again.
+
+An example output for this assignment is:
+
+Welcome to The Pizza House, our toppings are: pepperoni, sausage, onions, peppers,
+One large thin crust pizza with sausage, onions, peppers, . Coming up!
+...your pizza is cooking...
+Order up! Here's your large thin crust pizza with sausage, onions, peppers, . Enjoy!
+Welcome to The Pizza House, our toppings are: pepperoni, sausage, onions, peppers,
+One small thin crust pizza with mushrooms, banana peppers, . Coming up!
+...your pizza is cooking...
+Order up! Here's your small thin crust pizza with mushrooms, banana peppers, . Enjoy!
+{
+  size: 'small',
+  crust: 'thin',
+  toppings: [ 'mushrooms', 'banana peppers' ]
+}

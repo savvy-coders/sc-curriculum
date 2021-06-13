@@ -49,6 +49,7 @@ Using the [placeholder Post data](https://jsonplaceholder.typicode.com/posts):
 
 <br>
 
+
 ### Bonus Challenge
 
 Using the [placeholder To-Do data](https://jsonplaceholder.typicode.com/todos):
@@ -69,6 +70,49 @@ Using the [placeholder To-Do data](https://jsonplaceholder.typicode.com/todos):
 <br>
 
 ---
+An example of the output you want is
+
+[
+  '1-770-736-8031 x56442',
+  '010-692-6593 x09125',
+
+[
+  'hildegard.org, Sincere@april.biz',
+  'anastasia.net, Shanna@melissa.tv',
+  'ramiro.info, Nathan@yesenia.net',
+
+[
+  {
+    userId: 9,
+    id: 161,
+    title: 'ex hic consequuntur earum omnis alias ut occaecati culpa',
+    completed: true
+  },
+  {
+
+[
+  {
+    userId: 5,
+    id: 41,
+    title: 'non est facere',
+    body: 'molestias id nostrum\n' +
+      'excepturi molestiae dolore omnis repellendus quaerat saepe\n' +
+      'consectetur iste quaerat tenetur asperiores accusamus ex ut\n' +
+      'nam quidem est ducimus sunt debitis saepe'
+  },
+  {
+
+[
+  {
+    title: 'non est facere',
+    body: 'molestias id nostrum\n' +
+      'excepturi molestiae dolore omnis repellendus quaerat saepe\n' +
+      'consectetur iste quaerat tenetur asperiores accusamus ex ut\n' +
+      'nam quidem est ducimus sunt debitis saepe'
+  },
+  {
+
+
 
 <br>
 
