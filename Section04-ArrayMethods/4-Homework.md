@@ -55,3 +55,7 @@
 ## Bonus Challenge
 
 > **GOAL**: Use JavaScript _DOM methods_ to populate some to "all" of your HTML from a `.js` file instead of "hard coding" your HTML into your `index.html` file.
+
+An example of the file structure you should have for this assignment is
+
+![Week4HWFileStructure](img/Week4HWFileStructure.png)

@@ -30,3 +30,8 @@
 - Add files for components that would be repeated on each page/view of your capstone -- `Header`, `Nav`, `Main`, and `Footer`
 - Add a file for each page in your capstone in `views` and `store`
 - Remember to build your aggregators (`index.js`) in `components`, `views`, and `store`
+
+
+An example of the file structure
+
+![Stateless File Structure](img/StatelessFileStructure.png)
