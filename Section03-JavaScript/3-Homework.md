@@ -61,10 +61,7 @@ Welcome to The Pizza House, our toppings are: pepperoni, sausage, onions, pepper
 One large thin crust pizza with sausage, onions, peppers, . Coming up!
 ...your pizza is cooking...
 Order up! Here's your large thin crust pizza with sausage, onions, peppers, . Enjoy!
-Welcome to The Pizza House, our toppings are: pepperoni, sausage, onions, peppers,
-One small thin crust pizza with mushrooms, banana peppers, . Coming up!
-...your pizza is cooking...
-Order up! Here's your small thin crust pizza with mushrooms, banana peppers, . Enjoy!
+
 {
   size: 'small',
   crust: 'thin',
