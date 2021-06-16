@@ -15,11 +15,11 @@
 
 ## Section 1: **Project Planning and Career Materials**
 
-- [1.1 Resumes, LI, Elevator Pitch](Section01-ProjectPlanningAndCareerMaterials/1.1-Resumes-Linkedin-Elevator-Pitch.md)
-- [1.2 Career Materials](Section01-ProjectPlanningAndCareerMaterials/1.2-CareerMaterialsLinks.md)
-- [1.3 Project Planning](Section01-ProjectPlanningAndCareerMaterials/1.3-ProjectPlanning.md)
+- [1.1 Resumes, LI, Elevator Pitch](Section01/1.1-Resumes-Linkedin-Elevator-Pitch.md)
+- [1.2 Career Materials](Section01/1.2-CareerMaterialsLinks.md)
+- [1.3 Project Planning and UI/UX](Section01/1.3-ProjectPlanning-UI-UX.md)
 - [1.4 Agile - (web link to The Agile Coaching Academy)](https://courses.theagilecoach.com/users/sign_in)
-- [Section 1 - Homework](Section01-ProjectPlanningAndCareerMaterials/1-Homework.md)
+- [Section 1 - Homework](Section01/1-Homework.md)
 
 ## Section 2: **Introduction to Development**
 
@@ -27,7 +27,6 @@
 - [2.2.1 Intro to JavaScript](Section02/2.2.1-IntroToJavaScript.md)
 - [2.2.2 JS Data Types And Variables](Section02/2.2.2-DataTypesAndVariables.md)
 - [2.3 JS Operators And Flow Control](Section02/2.3-JSOperatorsAndFlowControl.md)
-- [2.4 UI/UX](Section02/2.4-UIAndUX.md)
 - [Section 2 - Homework](Section02/2-Homework.md)
 
 ## Section 3: **Frontend Development I**
