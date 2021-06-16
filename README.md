@@ -15,10 +15,10 @@
 
 ## Section 1: **Project Planning and Career Materials**
 
-- [Lesson 1.1 Resumes, LI, Elevator Pitch](Section01/1.1-Resumes-Linkedin-Elevator-Pitch.md)
-- [Lesson 1.2 Career Materials](Section01/1.2-CareerMaterialsLinks.md)
-- [Lesson 1.3 Project Planning and UI/UX](Section01/1.3-ProjectPlanning-UI-UX.md)
-- [Lesson 1.4 Agile - (web link to The Agile Coaching Academy)](https://courses.theagilecoach.com/users/sign_in)
+- [1.1 Resumes, LI, Elevator Pitch](Section01/1.1-Resumes-Linkedin-Elevator-Pitch.md)
+- [1.2 Career Materials](Section01/1.2-CareerMaterialsLinks.md)
+- [1.3 Project Planning and UI/UX](Section01/1.3-ProjectPlanning-UI-UX.md)
+- [1.4 Agile - (web link to The Agile Coaching Academy)](https://courses.theagilecoach.com/users/sign_in)
 - [Section 1 - Homework](Section01/1-Homework.md)
 
 ## Section 2: **Introduction to Development**
