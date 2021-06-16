@@ -11,20 +11,6 @@
 - loops, modulo
 - Markdown Language
 
-## Goal: _Capstone work_
-
-- UI/UX: Select a color pallet for your website
-- UI/UX: Plan site navigation and Nav elements like buttons
-- Start searching for an API to use/consume in your application. Examples:
-  - [10 Fun API's to Inspire Your Next Project](https://dev.to/nialljoemaher/10-fun-api-s-to-inspire-your-next-project-3224)
-  - [Collection of Free Public APIs](https://github.com/public-apis/public-apis#public-apis--)
-  - Social Media API's
-    - [Twitter](https://dev.twitter.com/docs/api)
-    - [Facebook ](http://developers.facebook.com/docs/reference/api/)
-    - [LinkedIn ](https://developer.linkedin.com/apis)
-
-<br>
-
 ## Homework is due to your TA by next Monday before class
 
 <br>

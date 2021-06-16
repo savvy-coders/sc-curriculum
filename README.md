@@ -21,7 +21,6 @@
 - [Lesson 2.2.1 Intro to JavaScript](Section02-IntroTojavaScript/2.2.1-IntroToJavaScript.md)
 - [Lesson 2.2.2 JS Data Types And Variables](Section02-IntroTojavaScript/2.2.2-DataTypesAndVariables.md)
 - [Lesson 2.3 JS Operators And Flow Control](Section02-IntroTojavaScript/2.3-JSOperatorsAndFlowControl.md)
-- [Lesson 2.4 UI/UX](Section02-IntroTojavaScript/2.4-UIAndUX.md)
 - [Section 2 - Homework](Section02-IntroTojavaScript/2-Homework.md)
 
 ## Section 3: **JavaScript, and HTML And CSS I**
