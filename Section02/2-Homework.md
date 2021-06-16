@@ -53,6 +53,14 @@
 
 <br>
 
+An example of the output you want for in this assignment is:
+
+The House of Pizza
+string
+8 number
+At The House of Pizza, we have 8 toppings.
+Quality, not quantity.
+
 ## Markdown Language Homework
 
 [Watch this video to learn more about Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo)
@@ -63,7 +71,4 @@
     1. Write your name in a large font
     2. Write a subheading about you in a smaller font
     3. Create a list that explains your goals for this course
-
-
-
 <br>
