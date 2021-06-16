@@ -1,6 +1,6 @@
 # Savvy Coders Curriculum
 
-## [Online Savvy Coders Curriculum](https://github.com/savvy-coders/sc-curriculum)
+## [Savvy Coders Syllabus](Section00/0-Syllabus.md)
 
 ## [Addendum of Resources](AddendumOfResources/AddendumOfResources.md)
 
