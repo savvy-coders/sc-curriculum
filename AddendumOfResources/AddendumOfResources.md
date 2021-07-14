@@ -275,9 +275,10 @@ CodePen.io is a social development environment for front-end designers and devel
 
 ## JavaScript resources
 
-- [The 9 most common mistakes developers make in JavaScript](https://www.freecodecamp.org/news/nine-most-common-mistakes-developers-make-in-javascript/) - and how to fix them
+- [The 9 most common mistakes developers make in JavaScript](https://www.freecodecamp.org/news/nine-most-common-mistakes-developers-make-in-javascript/) - and how to fix them (Article - freecodecamp.com)
+- [Javascript ES6 (fat) Arrow Function Syntax](JavaScriptResources/JSfatArrowFunctions.md)
 - [JavaScript Higher Order Functions & Arrays](https://youtu.be/rRgD1yVwIvE) (YouTube video)
-- [Try/Catch in JavaScript](https://www.freecodecamp.org/news/try-catch-in-javascript/) – How to handle errors in JS
+- [Try/Catch in JavaScript](https://www.freecodecamp.org/news/try-catch-in-javascript/) – How to handle errors in JS (Article - freecodecamp.com)
 - [Async JS Crash Course - Callbacks, Promises, Async Await ](https://youtu.be/PoRJizFvM7s) (YouTube video)
 
 <br>
